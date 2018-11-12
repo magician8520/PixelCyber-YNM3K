@@ -8,5 +8,6 @@
     "api.carelar.com/api/app/*/queryMyPurse",
     "api.carelar.com/api/app/*/userExchangeCenter",
     "api.hzchaoxiang.cn/*/Pay",
-    ],
+    "ipa.ios-wlyz.xyz*/AppEn.php"
+    ]
 }
