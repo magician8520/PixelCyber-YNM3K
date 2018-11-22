@@ -9,6 +9,19 @@
     "api.carelar.com/api/app/*/userExchangeCenter",
     "api.hzchaoxiang.cn/*/Pay",
     "ipa.ios-wlyz.xyz*/AppEn.php",
-    "ssl.msdk.qq.com/*/auth/guest"
+    "ssl.msdk.qq.com/*/auth/guest",
+
+    "*.zymk.cn",
+    "*.stoneread.com",
+    "*.bxmns.com",
+
+    "*.xunlei.com/getuserinfo",
+    "xuwen1990.xyz",
+    "6e9p.cn",
+    "hddhhn.com",
+    "hxzdhn.com",
+    "chinaz.com",
+    "11pingtai.com",
+    "4ud381.cn"
     ]
 }
