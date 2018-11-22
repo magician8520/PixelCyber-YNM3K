@@ -9,7 +9,20 @@
             "api.carelar.com/api/app/*/queryMyPurse",
             "api.carelar.com/api/app/*/userExchangeCenter",
             "api.hzchaoxiang.cn/*/Pay",
-            "ipa.ios-wlyz.xyz*/AppEn.php"
+            "ipa.ios-wlyz.xyz*/AppEn.php",
+
+            "*.zymk.cn",
+            "*.stoneread.com",
+            "*.bxmns.com",
+        
+            "*.xunlei.com/getuserinfo",
+            "xuwen1990.xyz",
+            "6e9p.cn",
+            "hddhhn.com",
+            "hxzdhn.com",
+            "chinaz.com",
+            "11pingtai.com",
+            "4ud381.cn"
         ],
         "ua": []
     }
