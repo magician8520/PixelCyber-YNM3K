@@ -62,6 +62,8 @@
         "*.fjjhk.com",
         "*.pcfdbs.cn",
         "*.jdjjzx.cn",
-        "yimo.name"
+        "yimo.name",
+        "*.ymlive.me",
+        "*.beneat.cn"
     ]
 }
