@@ -64,7 +64,9 @@
             "*.jdjjzx.cn",
             "yimo.name",
             "*.ymlive.me",
-            "*.beneat.cn"
+            "*.beneat.cn",
+            "*.cc*/IOS_CJ2/client/login",
+            "9you.*/IOS_CJ2/client/login"
         ],
         "ua": []
     }
