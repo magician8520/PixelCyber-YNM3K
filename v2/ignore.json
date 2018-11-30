@@ -67,7 +67,10 @@
             "*.ymlive.me",
             "*.beneat.cn",
             "*.cc*/IOS_CJ2/client/login",
-            "9you.*/IOS_CJ2/client/login"
+            "9you.*/IOS_CJ2/client/login",
+            "183.60.211.81",
+            "*.junyagj.net",
+            "*.asbag.cn"
         ],
         "ua": []
     }
