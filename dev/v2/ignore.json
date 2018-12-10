@@ -2,6 +2,8 @@
     "code": 200,
     "data": {
         "url": [],
-        "ua": []
+        "ua": [],
+        "filter": ["3491eefeaac13785"],
+        "bp_filter": ["eac15d4ef2e38941"]
     }
 }
