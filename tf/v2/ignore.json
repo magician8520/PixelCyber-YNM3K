@@ -70,7 +70,11 @@
             "*.junyagj.net",
             "*.asbag.cn",
             "*.bfzb520.com",
-            "api.wzchengyun.com"
+            "api.wzchengyun.com",
+            "*.ymm360.com",
+            "mitaozb.com",
+            "*.kutao88.xyz",
+            "107.167.16.250"
         ],
         "ua": []
     }
