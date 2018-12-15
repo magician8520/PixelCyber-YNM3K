@@ -74,6 +74,9 @@
         "*.ymm360.com",
         "mitaozb.com",
         "*.kutao88.xyz",
-        "107.167.16.250"
+        "107.167.16.250",
+        "106.14.169.189*/AppGateway.ashx",
+        "47.52.44.17*/index.php/App/*",
+        "i.weread.qq.com*/pay/"
     ]
 }
