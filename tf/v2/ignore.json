@@ -78,7 +78,8 @@
             "106.14.169.189*/AppGateway.ashx",
             "47.52.44.17*/index.php/App/*",
             "i.weread.qq.com*/pay/",
-            "api.chaifei.huochaihe.cc*/fei/member/getmember"
+            "api.chaifei.huochaihe.cc*/fei/member/getmember",
+            "api.wzchengyun.com*/checkPrivateCharge"
         ],
         "ua": []
     }
