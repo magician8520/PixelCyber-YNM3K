@@ -79,7 +79,11 @@
             "47.52.44.17*/index.php/App/*",
             "i.weread.qq.com*/pay/",
             "api.chaifei.huochaihe.cc*/fei/member/getmember",
-            "api.wzchengyun.com*/checkPrivateCharge"
+            "api.wzchengyun.com*/checkPrivateCharge",
+            "api.mh.163.com*/getUserProfile",
+            "comic.iqiyi.com",
+            "api.intsig.net*/purchase/",
+            "account.wps.cn*/api/users/*/overview"
         ],
         "ua": []
     }
