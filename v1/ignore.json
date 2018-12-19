@@ -84,6 +84,7 @@
         "api.mh.163.com*/getUserProfile",
         "comic.iqiyi.com",
         "api.intsig.net*/purchase/",
-        "account.wps.cn*/api/users/*/overview"
+        "account.wps.cn*/api/users/*/overview",
+        "api.avhot.space"
     ]
 }
