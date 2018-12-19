@@ -84,7 +84,8 @@
             "comic.iqiyi.com",
             "api.intsig.net*/purchase/",
             "account.wps.cn*/api/users/*/overview",
-            "api.avhot.space"
+            "api.avhot.space",
+            "xyst.yuanfudao.com*/solar-vip/*/auth/video"
         ],
         "ua": []
     }
