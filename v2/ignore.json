@@ -87,7 +87,10 @@
             "api.intsig.net*/purchase/",
             "account.wps.cn*/api/users/*/overview",
             "api.avhot.space",
-            "xyst.yuanfudao.com*/solar-vip/*/auth/video"
+            "xyst.yuanfudao.com*/solar-vip/*/auth/video",
+            "nomo.dafork.com*/api/iap",
+            "api.spshenqi.com*/xsp.php/Member/me_v*",
+            "user.taodianguan.com*/api/user/login"
         ],
         "ua": []
     }
