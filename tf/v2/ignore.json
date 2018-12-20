@@ -83,6 +83,7 @@
             "api.mh.163.com*/getUserProfile",
             "comic.iqiyi.com",
             "api.intsig.net*/purchase/",
+            "account.wps.cn*/api/users/*/overview",
             "api.avhot.space",
             "xyst.yuanfudao.com*/solar-vip/*/auth/video",
             "nomo.dafork.com*/api/iap",
