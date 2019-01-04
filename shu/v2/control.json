@@ -1,0 +1,21 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": false,
+            "maxActivatedDeviceCount": 5,
+            "maxActivatedUserCount": 3,
+            "grayScaleBase": 5,
+            "grayScaleRange": [
+                0,
+                3
+            ],
+            "beginVer": "1.3.6",
+            "endVer": "1.3.6",
+            "exceptionVers": []
+        },
+        {
+            "enable": false
+        }
+    ]
+}
