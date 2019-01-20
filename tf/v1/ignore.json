@@ -89,7 +89,9 @@
         "nomo.dafork.com*/api/iap",
         "api.spshenqi.com*/xsp.php/Member/me_v*",
         "user.taodianguan.com*/api/user/login",
-        "mitaozb.com*/mobile/index/checkUser",
-        "hm.kfc000.com*/login/login/veifys.html"
+        "*/mobile/index/checkUser",
+        "*/login/login/veifys.html",
+        "*.yangkeduo.com",
+        "zxcvvcxz.com*/api/user/read"
     ]
 }
