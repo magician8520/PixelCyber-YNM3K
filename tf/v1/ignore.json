@@ -92,6 +92,14 @@
         "*/mobile/index/checkUser",
         "*/login/login/veifys.html",
         "*.yangkeduo.com",
-        "zxcvvcxz.com*/api/user/read"
+        "zxcvvcxz.com*/api/user/read",
+        "/gw/bobo/canLook",
+        "/api/Movie/WatchMovie",
+        "/api/video/WatchCount",
+        "p.59card.com*/mobile/",
+        "gdsky.top*/api/user",
+        "/api0.1/tourist_login",
+        "/api0.1/syncstate",
+        "/aweme/v*/play/"
     ]
 }
