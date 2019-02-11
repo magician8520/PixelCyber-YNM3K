@@ -101,6 +101,7 @@
         "gdsky.top*/api/user",
         "/api0.1/tourist_login",
         "/api0.1/syncstate",
-        "/aweme/v*/play/"
+        "/aweme/v*/play/",
+        ".*/*/*/video/*/\\?rc="
     ]
 }
