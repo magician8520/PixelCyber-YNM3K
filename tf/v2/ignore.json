@@ -101,7 +101,9 @@
             "/api0.1/tourist_login",
             "/api0.1/syncstate",
             "/aweme/v*/play/",
-            ".*/*/*/video/*/\\?rc="
+            ".*/*/*/video/*/\\?rc=",
+            "/aweme/v*/aweme/post",
+            "/rest/n/feed/profile2"
         ],
         "ua": []
     }
