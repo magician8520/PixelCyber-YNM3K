@@ -104,6 +104,10 @@
         "/aweme/v*/play/",
         ".*/*/*/video/*/\\?rc=",
         "/aweme/v*/aweme/post",
-        "/rest/n/feed/profile2"
+        "/rest/n/feed/profile2",
+        "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
+        "wx6.52lt.vip*/weixinkey.qq.com.",
+        "/gw/bobo/canLook",
+        "/aweme/v1/settings/"
     ]
 }
