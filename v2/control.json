@@ -15,6 +15,14 @@
             "exceptionVers": []
         },
         {
+            "enable": true,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 1,
+            "beginVer": "9.9.9",
+            "endVer": "89.0.0",
+            "exceptionVers": []
+        },
+        {
             "enable": false
         }
     ]
