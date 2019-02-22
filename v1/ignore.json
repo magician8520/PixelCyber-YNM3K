@@ -108,6 +108,11 @@
         "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
         "wx6.52lt.vip*/weixinkey.qq.com.",
         "/gw/bobo/canLook",
-        "/aweme/v1/settings/"
+        "/aweme/v1/settings/",
+        "logs.mkdata.top",
+        ".321mh.com",
+        "getconfig-globalapi.yyhao.com",
+        "cs.bukamanhua.com",
+        ".kuwo.cn"
     ]
 }
