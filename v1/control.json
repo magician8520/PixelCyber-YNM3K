@@ -3,11 +3,6 @@
     "data": {
         "enable": true,
         "maxActivatedDeviceCount": 5,
-        "maxActivatedUserCount": 3,
-        "grayScaleBase": 5,
-        "grayScaleRange": [0, 1, 2, 3, 4],
-        "beginVer": null,
-        "endVer": null,
-        "exceptionVers": []
+        "maxActivatedUserCount": 3
     }
 }
