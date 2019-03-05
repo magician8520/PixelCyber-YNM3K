@@ -5,6 +5,7 @@
         "ua": [],
         "filter": [],
         "bp_filter": [],
-        "bp_url": ["baidu.com"]
+        "bp_url": [],
+        "bp_ua": []
     }
 }

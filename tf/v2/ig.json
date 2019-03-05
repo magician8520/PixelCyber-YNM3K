@@ -10,7 +10,15 @@
             "182.254.116.117",
 
             "*-ssl.xunlei.com",
-            "*-login.xunlei.com"
+            "*-login.xunlei.com",
+
+            "nomo.dafork.com*/api/iap",
+            "xyst.yuanfudao.com*/solar-vip/*/auth/video",
+            "api.mh.163.com*/getUserProfile",
+            "comic.iqiyi.com",
+            "account.wps.cn*/api/users/*/overview",
+            "i.weread.qq.com*/pay/",
+            ".kuwo.cn"
         ],
         "ua": [],
         "bp_url": [            
@@ -83,16 +91,10 @@
             "107.167.16.250",
             "106.14.169.189*/AppGateway.ashx",
             "47.52.44.17*/index.php/App/*",
-            "i.weread.qq.com*/pay/",
             "api.chaifei.huochaihe.cc*/fei/member/getmember",
             "api.wzchengyun.com*/checkPrivateCharge",
-            "api.mh.163.com*/getUserProfile",
-            "comic.iqiyi.com",
             "api.intsig.net*/purchase/",
-            "account.wps.cn*/api/users/*/overview",
             "api.avhot.space",
-            "xyst.yuanfudao.com*/solar-vip/*/auth/video",
-            "nomo.dafork.com*/api/iap",
             "api.spshenqi.com*/xsp.php/Member/me_v*",
             "user.taodianguan.com*/api/user/login",
             "*/mobile/index/checkUser",
@@ -114,7 +116,6 @@
             ".321mh.com",
             "getconfig-globalapi.yyhao.com",
             "cs.bukamanhua.com",
-            ".kuwo.cn",
             "jk.014ka.com/*/jk?.php"
         ]
     }
