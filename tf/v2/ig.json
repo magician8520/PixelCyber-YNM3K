@@ -2,15 +2,24 @@
     "code": 200,
     "data": {
         "url": [
+            "/aweme/v*/play/",
+            ".*/*/*/video/*/\\?rc=",
+            "/aweme/v*/aweme/post",
+            "/aweme/v1/settings/",
+            
             "182.254.116.117",
+
+            "*-ssl.xunlei.com",
+            "*-login.xunlei.com"
+        ],
+        "ua": [],
+        "bp_url": [            
             "api.hzchaoxiang.cn/*/Pay",
             "ipa.ios-wlyz.xyz*/AppEn.php",
             "*.stoneread.com",
             "*.bxmns.com",
             "*.tanv.com",
             "*.cloudmobi.net",
-            "*-ssl.xunlei.com",
-            "*-login.xunlei.com",
             "xuwen1990.xyz",
             "6e9p.cn",
             "hddhhn.com",
@@ -62,8 +71,7 @@
             "yimo.name",
             "*.ymlive.me",
             "*.beneat.cn",
-            "*.cc*/IOS_CJ2/client/login",
-            "9you.*/IOS_CJ2/client/login",
+            "*/IOS_CJ2/client/login",
             "183.60.211.81",
             "*.junyagj.net",
             "*.asbag.cn",
@@ -98,21 +106,16 @@
             "gdsky.top*/api/user",
             "/api0.1/tourist_login",
             "/api0.1/syncstate",
-            "/aweme/v*/play/",
-            ".*/*/*/video/*/\\?rc=",
-            "/aweme/v*/aweme/post",
             "/rest/n/feed/profile2",
             "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
             "wx6.52lt.vip*/weixinkey.qq.com.",
             "/gw/bobo/canLook",
-            "/aweme/v1/settings/",
             "logs.mkdata.top",
             ".321mh.com",
             "getconfig-globalapi.yyhao.com",
             "cs.bukamanhua.com",
             ".kuwo.cn",
             "jk.014ka.com/*/jk?.php"
-        ],
-        "ua": []
+        ]
     }
 }
