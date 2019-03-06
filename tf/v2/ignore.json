@@ -111,8 +111,9 @@
             "getconfig-globalapi.yyhao.com",
             "cs.bukamanhua.com",
             ".kuwo.cn",
-            "jk.014ka.com/*/jk?.php"
+            "jk.014ka.com*/*/jk?.php"
         ],
-        "ua": []
+        "ua": [],
+        "filter": ["9d344d0a70ee929c"]
     }
 }

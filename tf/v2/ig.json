@@ -18,9 +18,12 @@
             "comic.iqiyi.com",
             "account.wps.cn*/api/users/*/overview",
             "i.weread.qq.com*/pay/",
-            ".kuwo.cn"
+            ".kuwo.cn",
+
+            "jk.014ka.com*/*/jk?.php"
         ],
         "ua": [],
+        "filter": ["9d344d0a70ee929c"],
         "bp_url": [            
             "api.hzchaoxiang.cn/*/Pay",
             "ipa.ios-wlyz.xyz*/AppEn.php",
@@ -115,8 +118,7 @@
             "logs.mkdata.top",
             ".321mh.com",
             "getconfig-globalapi.yyhao.com",
-            "cs.bukamanhua.com",
-            "jk.014ka.com/*/jk?.php"
+            "cs.bukamanhua.com"
         ]
     }
 }
