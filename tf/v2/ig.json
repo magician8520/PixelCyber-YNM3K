@@ -20,10 +20,10 @@
             "i.weread.qq.com*/pay/",
             ".kuwo.cn",
 
-            "jk.014ka.com*/*/jk?.php"
+            "jk.014ka.com*/jk*.php"
         ],
         "ua": [],
-        "filter": ["9d344d0a70ee929c"],
+        "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"],
         "bp_url": [            
             "api.hzchaoxiang.cn/*/Pay",
             "ipa.ios-wlyz.xyz*/AppEn.php",

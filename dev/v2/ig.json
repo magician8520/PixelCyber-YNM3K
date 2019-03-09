@@ -1,9 +1,7 @@
 {
     "code": 200,
     "data": {
-        "url": [
-            "jk.014ka.com*/*/jk?.php"
-        ],
+        "url": [],
         "ua": [],
         "filter": [],
         "bp_filter": [],
