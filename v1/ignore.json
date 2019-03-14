@@ -101,10 +101,6 @@
         "gdsky.top*/api/user",
         "/api0.1/tourist_login",
         "/api0.1/syncstate",
-        "/aweme/v*/play/",
-        ".*/*/*/video/*/\\?rc=",
-        "/aweme/v*/aweme/post",
-        "/rest/n/feed/profile2",
         "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
         "wx6.52lt.vip*/weixinkey.qq.com.",
         "/gw/bobo/canLook",
@@ -114,6 +110,12 @@
         "getconfig-globalapi.yyhao.com",
         "cs.bukamanhua.com",
         ".kuwo.cn",
+
+        "/aweme/v*/play/",
+        "/aweme/v*/settings/",
+        "/aweme/v*/aweme/post",
+        "/rest/n/feed/profile2",
+        
         "jk.014ka.com*/jk*.php"
     ]
 }

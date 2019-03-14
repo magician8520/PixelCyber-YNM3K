@@ -2,11 +2,6 @@
     "code": 200,
     "data": {
         "url": [
-            "/aweme/v*/play/",
-            ".*/*/*/video/*/\\?rc=",
-            "/aweme/v*/aweme/post",
-            "/aweme/v1/settings/",
-            
             "182.254.116.117",
 
             "*-ssl.xunlei.com",
@@ -18,9 +13,7 @@
             "comic.iqiyi.com",
             "account.wps.cn*/api/users/*/overview",
             "i.weread.qq.com*/pay/",
-            ".kuwo.cn",
-
-            "jk.014ka.com*/jk*.php"
+            ".kuwo.cn"
         ],
         "ua": [],
         "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"],
@@ -111,14 +104,20 @@
             "gdsky.top*/api/user",
             "/api0.1/tourist_login",
             "/api0.1/syncstate",
-            "/rest/n/feed/profile2",
             "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
             "wx6.52lt.vip*/weixinkey.qq.com.",
             "/gw/bobo/canLook",
             "logs.mkdata.top",
             ".321mh.com",
             "getconfig-globalapi.yyhao.com",
-            "cs.bukamanhua.com"
+            "cs.bukamanhua.com",
+
+            "/aweme/v*/play/",
+            "/aweme/v*/settings/",
+            "/aweme/v*/aweme/post",
+            "/rest/n/feed/profile2",
+
+            "jk.014ka.com*/jk*.php"
         ]
     }
 }
