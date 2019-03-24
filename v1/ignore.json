@@ -45,6 +45,7 @@
         "/rest/n/feed/profile2",
         
         "jk.014ka.com*/jk*.php",
+        "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
 
         "p.du.163.com"
     ]
