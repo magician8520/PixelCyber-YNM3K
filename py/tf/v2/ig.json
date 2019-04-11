@@ -1,10 +1,10 @@
 {
     "code": 200,
     "data": {
-        "url": [],
-        "ua": [],
+        "url": ["*"],
+        "ua": ["*"],
         "filter": [],
         "bp_filter": [],
-        "bp_url": ["baidu.com"]
+        "bp_url": ["*"]
     }
 }

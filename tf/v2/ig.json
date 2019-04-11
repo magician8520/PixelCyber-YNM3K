@@ -2,81 +2,39 @@
     "code": 200,
     "data": {
         "url": [
-            "182.254.116.117",
-
-            "*-ssl.xunlei.com",
-            "*-login.xunlei.com",
-
             "nomo.dafork.com*/api/iap",
             "xyst.yuanfudao.com*/solar-vip/*/auth/video",
             "api.mh.163.com*/getUserProfile",
             "comic.iqiyi.com",
-            "account.wps.cn*/api/users/*/overview",
             "i.weread.qq.com*/pay/",
             ".kuwo.cn"
         ],
         "ua": [],
         "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"],
-        "bp_url": [            
+        "bp_url": [ 
+            "*-ssl.xunlei.com",
+            "*-login.xunlei.com",
+
+            "idcconfig.gcloud.qq.com",
             "api.hzchaoxiang.cn/*/Pay",
             "ipa.ios-wlyz.xyz*/AppEn.php",
+            "*.zymk.cn",
             "*.stoneread.com",
-            "*.bxmns.com",
             "*.tanv.com",
             "*.cloudmobi.net",
-            "xuwen1990.xyz",
-            "6e9p.cn",
-            "hddhhn.com",
-            "hxzdhn.com",
-            "chinaz.com",
-            "11pingtai.com",
-            "4ud381.cn",
-            "*.hdi66.vip",
-            "*.mianjuapp.com",
-            "*.owxo.com",
-            "*.api-root.com",
-            "*.maizahuo.cn",
-            "lkme.cc",
-            "onlla.cn",
-            "sckfzx.com",
-            "yimo.name",
-            "*.beneat.cn",
-            "*/IOS_CJ2/client/login",
-            "*.junyagj.net",
-            "api.wzchengyun.com",
-            "*.ymm360.com",
-            "107.167.16.250",
-            "106.14.169.189*/AppGateway.ashx",
-            "47.52.44.17*/index.php/App/*",
-            "api.chaifei.huochaihe.cc*/fei/member/getmember",
-            "api.wzchengyun.com*/checkPrivateCharge",
+            
             "api.intsig.net*/purchase/",
-            "api.spshenqi.com*/xsp.php/Member/me_v*",
-            "user.taodianguan.com*/api/user/login",
-            "*/mobile/index/checkUser",
-            "*/login/login/veifys.html",
             "*.yangkeduo.com",
-            "zxcvvcxz.com*/api/user/read",
-            "/api/Movie/WatchMovie",
-            "/api/video/WatchCount",
-            "p.59card.com*/mobile/",
-            "gdsky.top*/api/user",
-            "/api0.1/tourist_login",
-            "/api0.1/syncstate",
-            "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
-            "wx6.52lt.vip*/weixinkey.qq.com.",
-            "logs.mkdata.top",
-            ".321mh.com",
-            "getconfig-globalapi.yyhao.com",
-            "cs.bukamanhua.com",
-
+            "account.wps.cn*/api/users/*/overview",
+            "api.mh.163.com*/getUserProfile",
             "/aweme/v*/play/",
             "/aweme/v*/settings/",
             "/aweme/v*/aweme/post",
             "/rest/n/feed/profile2",
-
+            
             "jk.014ka.com*/jk*.php",
-
+            "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
+    
             "p.du.163.com"
         ]
     }

@@ -3,8 +3,8 @@
     "data": [
         {
             "enable": true,
-            "maxActivatedDeviceCount": 1,
-            "maxActivatedUserCount": 1,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 0,
             "beginVer": null,
             "endVer": null
         },

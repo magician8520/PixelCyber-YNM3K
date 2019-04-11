@@ -3,33 +3,15 @@
     "data": [
         "dlied*.qq.com",
         "idcconfig.gcloud.qq.com",
-        "182.254.116.117",
         "api.hzchaoxiang.cn/*/Pay",
         "ipa.ios-wlyz.xyz*/AppEn.php",
         "*.zymk.cn",
         "*.stoneread.com",
-        "*.bxmns.com",
         "*.tanv.com",
         "*.cloudmobi.net",
         "*-ssl.xunlei.com",
         "*-login.xunlei.com",
-
-        "*.api-root.com",
-
-        "106.14.169.189*/AppGateway.ashx",
-        "47.52.44.17*/index.php/App/*",
-       
-        "*/mobile/index/checkUser",
         
-        "/api/Movie/WatchMovie",
-        "/api/video/WatchCount",
-
-        "/api0.1/tourist_login",
-        "/api0.1/syncstate",
-        
-        "logs.mkdata.top",
-       
-        "api.wzchengyun.com*/checkPrivateCharge",
         "api.intsig.net*/purchase/",
         "*.yangkeduo.com",
         "nomo.dafork.com*/api/iap",
