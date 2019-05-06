@@ -27,11 +27,7 @@
             "*.yangkeduo.com",
             "account.wps.cn*/api/users/*/overview",
             "api.mh.163.com*/getUserProfile",
-            "/aweme/v*/play/",
-            "/aweme/v*/settings/",
-            "/aweme/v*/aweme/post",
-            "/rest/n/feed/profile2",
-            
+
             "jk.014ka.com*/jk*.php",
             "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
     

@@ -21,10 +21,6 @@
         "i.weread.qq.com*/pay/",
         ".kuwo.cn",
         "comic.iqiyi.com",
-        "/aweme/v*/play/",
-        "/aweme/v*/settings/",
-        "/aweme/v*/aweme/post",
-        "/rest/n/feed/profile2",
         
         "jk.014ka.com*/jk*.php",
         "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
