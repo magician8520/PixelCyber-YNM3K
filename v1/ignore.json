@@ -5,11 +5,7 @@
         "idcconfig.gcloud.qq.com",
         "api.hzchaoxiang.cn/*/Pay",
         "ipa.ios-wlyz.xyz*/AppEn.php",
-        "*.zymk.cn",
-        "*.stoneread.com",
-        "*.tanv.com",
-        "*.cloudmobi.net",
-        
+
         "api.intsig.net*/purchase/",
         "*.yangkeduo.com",
         "nomo.dafork.com*/api/iap",
@@ -20,9 +16,6 @@
         ".kuwo.cn",
         "comic.iqiyi.com",
         
-        "jk.014ka.com*/jk*.php",
-        "s.viomi.com.cn*/services/vmall/user/sendAuthCode.json?mobile=",
-
         "p.du.163.com"
     ]
 }
