@@ -7,9 +7,8 @@
             "comic.iqiyi.com"
         ],
         "ua": [],
-        "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"],
+        "filter": [],
         "bp_url": [ 
-            "api.mh.163.com*/getUserProfile",
             "i.weread.qq.com*/pay/",
 
             "idcconfig.gcloud.qq.com",
