@@ -2,26 +2,15 @@
     "code": 200,
     "data": {
         "url": [
-            "nomo.dafork.com*/api/iap",
-            ".kuwo.cn",
-            "comic.iqiyi.com"
+            "nomo.dafork.com*/api/iap"
         ],
         "ua": [],
         "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"],
         "bp_url": [ 
-            "api.mh.163.com*/getUserProfile",
-            "i.weread.qq.com*/pay/",
-
             "idcconfig.gcloud.qq.com",
             "api.hzchaoxiang.cn/*/Pay",
-            "ipa.ios-wlyz.xyz*/AppEn.php",
-            
             "api.intsig.net*/purchase/",
-            "*.yangkeduo.com",
-            "account.wps.cn*/api/users/*/overview",
-            "api.mh.163.com*/getUserProfile",
-    
-            "p.du.163.com"
+            "*.yangkeduo.com"
         ]
     }
 }

@@ -2,24 +2,16 @@
     "code": 200,
     "data": {
         "url": [
-            "nomo.dafork.com*/api/iap",
-            ".kuwo.cn",
-            "comic.iqiyi.com"
+            "nomo.dafork.com*/api/iap"
         ],
         "ua": [],
         "filter": [],
         "bp_url": [ 
-            "i.weread.qq.com*/pay/",
-
             "idcconfig.gcloud.qq.com",
-            "api.hzchaoxiang.cn/*/Pay",
-            "ipa.ios-wlyz.xyz*/AppEn.php",
-            
+            "api.hzchaoxiang.cn/*/Pay",            
             "api.intsig.net*/purchase/",
             "*.yangkeduo.com",
-            "account.wps.cn*/api/users/*/overview",
             "api.mh.163.com*/getUserProfile",
-    
             "p.du.163.com"
         ]
     }
