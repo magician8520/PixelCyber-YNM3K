@@ -11,7 +11,8 @@
             "api.intsig.net*/purchase/",
             "*.yangkeduo.com",
             "api.mh.163.com*/getUserProfile",
-            "p.du.163.com"
+            "p.du.163.com",
+            "bmall.camera360.com*/*api*/recovery"
         ]
     }
 }
