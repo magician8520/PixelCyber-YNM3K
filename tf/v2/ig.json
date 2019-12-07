@@ -2,10 +2,11 @@
     "code": 200,
     "data": {
         "url": [
-            "nomo.dafork.com*/api/iap"
+            "nomo.dafork.com*/api*/iap",
+            "bmall.camera360.com*/*api*/recovery"
         ],
         "ua": [],
-        "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"],
+        "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf", "12dd8f8e8f9ce92f", "f4aab117d9e59fe4"],
         "bp_url": [ 
             "idcconfig.gcloud.qq.com",
             "api.hzchaoxiang.cn/*/Pay",

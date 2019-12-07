@@ -2,10 +2,9 @@
     "code": 200,
     "data": {
         "url": [
-            "nomo.dafork.com*/api/iap"
         ],
         "ua": [],
-        "filter": [],
+        "filter": ["12dd8f8e8f9ce92f", "f4aab117d9e59fe4"],
         "bp_url": [ 
             "idcconfig.gcloud.qq.com",
             "api.hzchaoxiang.cn/*/Pay",            
