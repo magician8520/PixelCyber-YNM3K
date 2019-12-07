@@ -4,7 +4,7 @@
         "url": [
         ],
         "ua": [],
-        "filter": ["12dd8f8e8f9ce92f", "f4aab117d9e59fe4"],
+        "filter": [],
         "bp_url": [ 
             "idcconfig.gcloud.qq.com",
             "api.hzchaoxiang.cn/*/Pay",            
@@ -12,6 +12,7 @@
             "*.yangkeduo.com",
             "api.mh.163.com*/getUserProfile",
             "p.du.163.com",
+            "nomo.dafork.com*/api*/iap",
             "bmall.camera360.com*/*api*/recovery"
         ]
     }
