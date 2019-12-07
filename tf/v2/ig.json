@@ -10,8 +10,7 @@
             "api.hzchaoxiang.cn/*/Pay",
             "api.intsig.net*/purchase/",
             "*.yangkeduo.com",
-            "nomo.dafork.com*/api*/iap",
-            "bmall.camera360.com*/*api*/recovery"
+            "nomo.dafork.com*/api*/iap"
         ]
     }
 }
