@@ -10,7 +10,11 @@
             "api.hzchaoxiang.cn/*/Pay",
             "api.intsig.net*/purchase/",
             "*.yangkeduo.com",
-            "nomo.dafork.com*/api*/iap"
+            "api.mh.163.com*/getUserProfile",
+            "p.du.163.com",
+            "i.weread.qq.com*/pay/",
+            "nomo.dafork.com*/api*/iap",
+            "mubu.com"
         ]
     }
 }
