@@ -1,11 +1,13 @@
 {
     "code": 200,
     "data": {
-        "url": [
-        ],
+        "url": [],
         "ua": [],
-        "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"],
-        "bp_url": [ 
+        "filter": [
+            "9d344d0a70ee929c",
+            "04c0d75f5d697ebf"
+        ],
+        "bp_url": [
             "idcconfig.gcloud.qq.com",
             "api.hzchaoxiang.cn/*/Pay",
             "api.intsig.net*/purchase/",
@@ -14,7 +16,15 @@
             "p.du.163.com",
             "i.weread.qq.com*/pay/",
             "nomo.dafork.com*/api*/iap",
-            "mubu.com"
+            "bmall.camera360.com*/*api*/recovery",
+            "mubu.com",
+            "*.qy.net",
+            "vip.iqiyi.com",
+            "comic.iqiyi.com",
+            "subscription.iqiyi.com",
+            "vip.*.qq.com",
+            "film.qq.com",
+            "*.kuwo.cn"
         ]
     }
 }
