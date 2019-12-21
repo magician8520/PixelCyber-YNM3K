@@ -1,11 +1,12 @@
 {
     "code": 200,
     "data": {
-        "url": [],
+        "url": [
+            "nomo.dafork.com*/api*/iap"
+        ],
         "ua": [],
         "filter": [
-            "9d344d0a70ee929c",
-            "04c0d75f5d697ebf"
+            "762f43897f269069"
         ],
         "bp_url": [
             "idcconfig.gcloud.qq.com",
@@ -15,7 +16,7 @@
             "api.mh.163.com*/getUserProfile",
             "p.du.163.com",
             "i.weread.qq.com*/pay/",
-            "nomo.dafork.com*/api*/iap",
+            "account.wps.cn*/api/users/*/overview",
             "bmall.camera360.com*/*api*/recovery",
             "mubu.com",
             "*.qy.net",
@@ -24,7 +25,10 @@
             "subscription.iqiyi.com",
             "vip.*.qq.com",
             "film.qq.com",
-            "*.kuwo.cn"
+            ".kuwo.cn",
+            "*/music.pay",
+            "*.qianqian.com",
+            "*/scanner_api/user/get"
         ]
     }
 }
