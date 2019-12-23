@@ -2,7 +2,8 @@
     "code": 200,
     "data": {
         "url": [
-            "nomo.dafork.com*/api*/iap"
+            "nomo.dafork.com*/api*/iap",
+            "apis.map.qq.com"
         ],
         "ua": [],
         "filter": [

@@ -23,6 +23,7 @@
         ".kuwo.cn",
         "*/music.pay",
         "*.qianqian.com",
-        "*/scanner_api/user/get"
+        "*/scanner_api/user/get",
+        "apis.map.qq.com"
     ]
 }
