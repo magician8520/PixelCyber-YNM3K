@@ -24,6 +24,17 @@
         "*/music.pay",
         "*.qianqian.com",
         "*/scanner_api/user/get",
-        "apis.map.qq.com"
+        "apis.map.qq.com",
+        "*.nexstreaming.com",
+        "*.v21xy.com",
+        "*.recorder.duapps.com",
+        "*.faceapp.io",
+        "*splice.oracle.bendingspoonsapps.com",
+        "buy.itunes.apple.com",
+        "*.polarr.co/",
+        "*.polaxiong.com/",
+        "*.3dbody.cn",
+        "*.videostarapp.com",
+        "*.revenuecat.com"
     ]
 }
