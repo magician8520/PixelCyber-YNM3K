@@ -36,6 +36,14 @@
         "*.3dbody.cn",
         "*.videostarapp.com",
         "*.revenuecat.com",
-        "*.jianmovie.com"
+        "*.jianmovie.com",
+        "vsco.co",
+        "pan.baidu.com",
+        "yun.baidu.com",
+        "crab.baidu.com",
+        "qapm.baidu.com",
+        "sse.com.cn",
+        "szse.cn",
+        "*.gov.cn"
     ]
 }

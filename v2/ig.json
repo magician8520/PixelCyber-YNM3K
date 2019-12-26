@@ -3,11 +3,14 @@
     "data": {
         "url": [
             "nomo.dafork.com*/api*/iap",
-            "apis.map.qq.com"
+            "apis.map.qq.com",
+            "pan.baidu.com",
+            "*.gov.cn"
         ],
         "ua": [],
         "filter": [
-            "762f43897f269069"
+            "762f43897f269069",
+            "52887282c419e724"
         ],
         "bp_url": [
             "idcconfig.gcloud.qq.com",
@@ -42,7 +45,12 @@
             "*.3dbody.cn",
             "*.videostarapp.com",
             "*.revenuecat.com",
-            "*.jianmovie.com"
+            "*.jianmovie.com",
+            "vsco.co",
+            "crab.baidu.com",
+            "qapm.baidu.com",
+            "sse.com.cn",
+            "szse.cn"
         ]
     }
 }
