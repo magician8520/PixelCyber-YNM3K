@@ -18,7 +18,7 @@
         "vip.iqiyi.com",
         "comic.iqiyi.com",
         "subscription.iqiyi.com",
-        "vip.*.qq.com",
+        "vip*.qq.com",
         "film.qq.com",
         ".kuwo.cn",
         "*/music.pay",
@@ -44,6 +44,15 @@
         "qapm.baidu.com",
         "sse.com.cn",
         "szse.cn",
-        "*.gov.cn"
+        "*.gov.cn",
+        "claritywallpaper.com",
+        "/v*/get_user_info",
+        "/v*/get_purchase_list",
+        "/scanner_api/",
+        "api.interpreter.caiyunai.com",
+        "luqijianggushi.com",
+        "api.douguo.net",
+        "api.dushu.io",
+        "vipapi.jxedt.com"
     ]
 }

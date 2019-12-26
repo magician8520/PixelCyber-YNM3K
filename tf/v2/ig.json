@@ -6,7 +6,9 @@
             "apis.map.qq.com",
             "pan.baidu.com",
             "yun.baidu.com",
-            "*.gov.cn"
+            "*.gov.cn",
+            "sse.com.cn",
+            "szse.cn"
         ],
         "ua": [],
         "filter": [
@@ -28,7 +30,7 @@
             "vip.iqiyi.com",
             "comic.iqiyi.com",
             "subscription.iqiyi.com",
-            "vip.*.qq.com",
+            "vip*.qq.com",
             "film.qq.com",
             ".kuwo.cn",
             "*/music.pay",
@@ -50,8 +52,15 @@
             "vsco.co",
             "crab.baidu.com",
             "qapm.baidu.com",
-            "sse.com.cn",
-            "szse.cn"
+            "claritywallpaper.com",
+            "/v*/get_user_info",
+            "/v*/get_purchase_list",
+            "/scanner_api/",
+            "api.interpreter.caiyunai.com",
+            "luqijianggushi.com",
+            "api.douguo.net",
+            "api.dushu.io",
+            "vipapi.jxedt.com"
         ]
     }
 }
