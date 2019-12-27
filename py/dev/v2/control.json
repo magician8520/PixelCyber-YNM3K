@@ -4,9 +4,7 @@
         {
             "enable": true,
             "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0,
-            "beginVer": null,
-            "endVer": null
+            "maxActivatedUserCount": 0
         },
         {
             "enable": false

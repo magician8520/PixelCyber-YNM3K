@@ -5,9 +5,6 @@
         "maxActivatedDeviceCount": 1,
         "maxActivatedUserCount": 1,
         "grayScaleBase": 5,
-        "grayScaleRange": "sb",
-        "beginVer": null,
-        "endVer": null,
-        "exceptionVers": []
+        "grayScaleRange": "sb"
     }
 }

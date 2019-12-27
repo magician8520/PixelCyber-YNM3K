@@ -4,8 +4,7 @@
         {
             "enable": true,
             "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0,
-            "exceptionVers": []
+            "maxActivatedUserCount": 0
         },
         {
             "enable": false

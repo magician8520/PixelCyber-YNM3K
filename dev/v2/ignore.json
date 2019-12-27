@@ -2,8 +2,8 @@
     "code": 200,
     "data": {
         "url": ["*"],
-        "ua": [],
-        "filter": [],
-        "bp_filter": []
+        "ua": ["*"],
+        "filter": ["*"],
+        "bp_filter": ["*"]
     }
 }
