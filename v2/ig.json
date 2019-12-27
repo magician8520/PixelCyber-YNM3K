@@ -13,18 +13,26 @@
         "ua": [],
         "filter": [
             "762f43897f269069",
-            "52887282c419e724"
+            "52887282c419e724",
+            "90479a9fd1252fa2",
+            "72a97a4941beaa16",
+            "bae6c6767f0f9c36",
+            "85642a9ba78b8979",
+            "f3d344426a9dd756",
+            "87f0c0cb1ebf2636",
+            "799ceef37cb7e80d"
         ],
         "bp_url": [
             "idcconfig.gcloud.qq.com",
             "api.hzchaoxiang.cn*/Pay",
             "api.intsig.net*/purchase/",
             "*.yangkeduo.com",
-            "api.mh.163.com*/getUserProfile",
+            "api.mh.163.com",
             "p.du.163.com",
-            "i.weread.qq.com*/pay/",
-            "account.wps.cn*/api/users/*/overview",
-            "bmall.camera360.com*/*api*/recovery",
+            "i.weread.qq.com",
+            "account.wps.cn",
+            "bmall.camera360.com",
+            "*.yuanfudao.com",
             "mubu.com",
             "*.qy.net",
             "vip.iqiyi.com",
@@ -55,12 +63,16 @@
             "claritywallpaper.com",
             "/v*/get_user_info",
             "/v*/get_purchase_list",
-            "/scanner_api/",
             "api.interpreter.caiyunai.com",
             "luqijianggushi.com",
             "api.douguo.net",
             "api.dushu.io",
-            "vipapi.jxedt.com"
+            "vipapi.jxedt.com",
+            "vcinema.*",
+            "api.tophub.today",
+            "xiaoxiaoapps.com",
+            "/api/v*.user/info",
+            "api.rr.tv"
         ]
     }
 }

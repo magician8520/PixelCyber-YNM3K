@@ -8,7 +8,7 @@
         "*.yangkeduo.com",
         "nomo.dafork.com*/api*/iap",
         "bmall.camera360.com*/*api*/recovery",
-        "xyst.yuanfudao.com*/solar-vip/*/auth/video",
+        "*.yuanfudao.com",
         "account.wps.cn*/api/users/*/overview",
         "api.mh.163.com*/getUserProfile",
         "i.weread.qq.com*/pay/",
@@ -48,11 +48,15 @@
         "claritywallpaper.com",
         "/v*/get_user_info",
         "/v*/get_purchase_list",
-        "/scanner_api/",
         "api.interpreter.caiyunai.com",
         "luqijianggushi.com",
         "api.douguo.net",
         "api.dushu.io",
-        "vipapi.jxedt.com"
+        "vipapi.jxedt.com",
+        "vcinema.*",
+        "api.tophub.today",
+        "xiaoxiaoapps.com",
+        "/api/v*.user/info",
+        "api.rr.tv"
     ]
 }

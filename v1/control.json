@@ -3,6 +3,6 @@
     "data": {
         "enable": true,
         "maxActivatedDeviceCount": 5,
-        "maxActivatedUserCount": 3
+        "maxActivatedUserCount": 1
     }
 }
