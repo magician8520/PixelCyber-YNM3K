@@ -57,6 +57,10 @@
         "api.tophub.today",
         "xiaoxiaoapps.com",
         "/api/v*.user/info",
-        "api.rr.tv"
+        "api.rr.tv",
+        "/panda/vip/get/status/ios",
+        "ximalaya.com",
+        "*.dxy.com",
+        "app.lingdu2019.cn"
     ]
 }

@@ -3,6 +3,6 @@
     "data": {
         "url": ["*"],
         "ua": ["*"],
-        "filter": ["9d344d0a70ee929c", "04c0d75f5d697ebf"]
+        "filter": ["*"]
     }
 }
