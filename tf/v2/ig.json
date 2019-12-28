@@ -23,7 +23,10 @@
             "799ceef37cb7e80d",
             "4769649271551391",
             "07c0e9828225d8b2",
-            "d61219e5c2e7e331"
+            "d61219e5c2e7e331",
+            "7013fd4f6b20ac92",
+            "0213942c6d5da4b0",
+            "fdabc655d0310ea1"
         ],
         "bp_url": [
             "idcconfig.gcloud.qq.com",
@@ -79,7 +82,11 @@
             "/panda/vip/get/status/ios",
             "ximalaya.com",
             "*.dxy.com",
-            "app.lingdu2019.cn"
+            "app.lingdu2019.cn",
+            "api.iyuba.com.cn",
+            "warmcolor.cn",
+            "sqb.wowozhe.com",
+            "api.kadiantexiao.com"
         ]
     }
 }

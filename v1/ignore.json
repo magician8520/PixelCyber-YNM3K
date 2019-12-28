@@ -61,6 +61,10 @@
         "/panda/vip/get/status/ios",
         "ximalaya.com",
         "*.dxy.com",
-        "app.lingdu2019.cn"
+        "app.lingdu2019.cn",
+        "api.iyuba.com.cn",
+        "warmcolor.cn",
+        "sqb.wowozhe.com",
+        "api.kadiantexiao.com"
     ]
 }
