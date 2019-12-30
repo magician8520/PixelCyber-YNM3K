@@ -27,7 +27,12 @@
             "7013fd4f6b20ac92",
             "0213942c6d5da4b0",
             "fdabc655d0310ea1",
-            "ac725e0ad13eeef7"
+            "ac725e0ad13eeef7",
+            "8d2aa3154a1fb76f",
+            "7f3cc733bab72ee2"
+        ],
+        "bp_ua": [
+            "shengjian"
         ],
         "bp_url": [
             "idcconfig.gcloud.qq.com",
@@ -88,7 +93,8 @@
             "warmcolor.cn",
             "sqb.wowozhe.com",
             "api.kadiantexiao.com",
-            "flash.253.com"
+            "flash.253.com",
+            "imshengjian.com"
         ]
     }
 }
