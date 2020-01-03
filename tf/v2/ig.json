@@ -8,7 +8,8 @@
             "yun.baidu.com",
             "*.gov.cn",
             "sse.com.cn",
-            "szse.cn"
+            "szse.cn",
+            "intldlgs.qq.com"
         ],
         "ua": [],
         "filter": [
@@ -29,7 +30,27 @@
             "fdabc655d0310ea1",
             "ac725e0ad13eeef7",
             "8d2aa3154a1fb76f",
-            "7f3cc733bab72ee2"
+            "7f3cc733bab72ee2",
+            "043ea670f8578f16",
+            "643f8e77da2cf5e9",
+            "10301ee70be19a90",
+            "569769dd59703761",
+            "3a7dc244604fc88d",
+            "3e0b7f6aefca2af1",
+            "f4ffccc83d80f2ce",
+            "ac64fc8bef47cb77",
+            "e84df059712b39b1",
+            "17e89c15b2f42a15",
+            "a1415430709b9661",
+            "3b591a6835fd0774",
+            "dfa2d54ca276e38f",
+            "1c6065d9f72012ad",
+            "f587f9abb66ffa02",
+            "b650441cdc6741ca",
+            "2fbe18359b1f1b95",
+            "f1a5605c1769d515",
+            "013338576bb93612",
+            "7e355cb3f25686e4"
         ],
         "bp_ua": [
             "shengjian"
@@ -94,7 +115,34 @@
             "sqb.wowozhe.com",
             "api.kadiantexiao.com",
             "flash.253.com",
-            "imshengjian.com"
+            "imshengjian.com",
+            "/purchase/cs/query_property",
+            "app.xunjiepdf.com",
+            "/klass/*/k/",
+            "/training/*/exercises/",
+            "pretamakeup.com",
+            "pretapplereceiptvalidation.azurewebsites.net",
+            "peiyinxiu.com",
+            "lanfanapp.com",
+            "unipay.qq.com",
+            "qianqian.com",
+            "/rest/*/membership/user",
+            "yiyongcad.com",
+            "huolala.cn",
+            ".iyuba.",
+            "47.102.23.164",
+            "geebookservice.com",
+            "geeboodata.com",
+            ".daydaycook.com",
+            "pimp-family.s3.appcnt.com",
+            "subs.platforms.team",
+            "api.bilibili.com",
+            "47.96.240.137",
+            "/app/vip/status",
+            "/community/user/me",
+            ".ellabook.cn",
+            "/appjson/coinPay",
+            ".unfold.app"
         ]
     }
 }
