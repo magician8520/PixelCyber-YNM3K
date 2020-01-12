@@ -6,7 +6,7 @@
         "api.hzchaoxiang.cn*/Pay",
         "api.intsig.net*/purchase/",
         "*.yangkeduo.com",
-        "nomo.dafork.com*/api*/iap",
+        "nomo.dafork.com",
         "bmall.camera360.com*/*api*/recovery",
         "*.yuanfudao.com",
         "account.wps.cn*/api/users/*/overview",
@@ -133,6 +133,7 @@
         "/mobile/common/checkChartPower",
         "/api/makeup/chartlet/unlock/status",
         "/kks/index.php",
-        "keke/mobile/index.php"
+        "keke/mobile/index.php",
+        "/api/*.*/ios/*/"
     ]
 }

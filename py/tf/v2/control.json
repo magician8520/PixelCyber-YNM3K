@@ -7,7 +7,7 @@
             "maxActivatedUserCount": 0
         },
         {
-            "enable": false
+            "enable": true
         }
     ]
 }

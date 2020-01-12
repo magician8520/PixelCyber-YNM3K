@@ -2,7 +2,7 @@
     "code": 200,
     "data": {
         "url": [
-            "nomo.dafork.com*/api*/iap",
+            "nomo.dafork.com",
             "apis.map.qq.com",
             "pan.baidu.com",
             "yun.baidu.com",
@@ -134,10 +134,12 @@
             "04cd92a9cfeed3e1",
             "fa8bfd67a553c183",
             "ea380085e089f549",
-            "758dd86404036107"
+            "758dd86404036107",
+            "9026842c6a24254"
         ],
         "bp_ua": [
-            "shengjian"
+            "shengjian",
+            "Taker/"
         ],
         "bp_url": [
             "idcconfig.gcloud.qq.com",
@@ -264,7 +266,8 @@
             "/mobile/common/checkChartPower",
             "/api/makeup/chartlet/unlock/status",
             "/kks/index.php",
-            "keke/mobile/index.php"
+            "keke/mobile/index.php",
+            "/api/*.*/ios/*/"
         ]
     }
 }
