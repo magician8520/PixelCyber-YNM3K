@@ -5,6 +5,7 @@
             "enable": true,
             "maxActivatedDeviceCount": 0,
             "maxActivatedUserCount": 0,
+            "blockOld": true,
             "beginVer": "1.3.6",
             "endVer": "1.3.8"
         },
@@ -12,6 +13,7 @@
             "enable": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
+            "blockOld": true,
             "grayScaleBase": 5,
             "grayScaleRange": [
                 0,
@@ -25,7 +27,8 @@
             "exceptionVers": ["1.3.10"]
         },
         {
-            "enable": false
+            "enable": false,
+            "blockOld": true
         }
     ]
 }

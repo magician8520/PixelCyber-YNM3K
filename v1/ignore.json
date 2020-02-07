@@ -134,6 +134,8 @@
         "/api/makeup/chartlet/unlock/status",
         "/kks/index.php",
         "keke/mobile/index.php",
-        "/api/*.*/ios/*/"
+        "/api/*.*/ios/*/",
+        "api.cloudflareclient.com",
+        "license.pdfexpert.com"
     ]
 }

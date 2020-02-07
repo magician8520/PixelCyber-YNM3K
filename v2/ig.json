@@ -135,7 +135,9 @@
             "fa8bfd67a553c183",
             "ea380085e089f549",
             "758dd86404036107",
-            "9026842c6a24254"
+            "9026842c6a24254",
+            "e6a8565dc6d16640",
+            "69060de229314190"
         ],
         "bp_ua": [
             "shengjian",
@@ -267,7 +269,9 @@
             "/api/makeup/chartlet/unlock/status",
             "/kks/index.php",
             "keke/mobile/index.php",
-            "/api/*.*/ios/*/"
+            "/api/*.*/ios/*/",
+            "api.cloudflareclient.com",
+            "license.pdfexpert.com"
         ]
     }
 }
