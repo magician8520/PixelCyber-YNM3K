@@ -23,7 +23,7 @@
             "beginVer": null,
             "endVer": null,
             "exceptionVers": [],
-            "keepAlive": false
+            "keepAlive": true
         },
         {
             "enable": false
