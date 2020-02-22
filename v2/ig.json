@@ -2,7 +2,7 @@
     "code": 200,
     "data": {
         "url": [
-            "nomo.dafork.com",
+            ".dafork.com",
             "apis.map.qq.com",
             "pan.baidu.com",
             "yun.baidu.com",
@@ -135,9 +135,25 @@
             "fa8bfd67a553c183",
             "ea380085e089f549",
             "758dd86404036107",
-            "9026842c6a24254",
+            "9026842c6a24254d",
             "e6a8565dc6d16640",
-            "69060de229314190"
+            "69060de229314190",
+            "b0d2bcc4fbc43a66",
+            "a0bfff6d89f135bd",
+            "4fe496d93f73e88a",
+            "5cbe968362e84f13",
+            "734691eae504f2ac",
+            "9f8ff33d02564ab4",
+            "4a8732c12a2104e5",
+            "3761d7a3ff5b0308",
+            "0f61b18c24a37f3d",
+            "b43d5312506958e6",
+            "64a02cc32de642b4",
+            "6eed6f91508b5ef6",
+            "f1fdfdaaca3d21c2",
+            "440cd2c202611e11",
+            "254b0b76cd3fa6ff",
+            "bdf90ec714d0feb6"
         ],
         "bp_ua": [
             "shengjian",
@@ -271,7 +287,20 @@
             "keke/mobile/index.php",
             "/api/*.*/ios/*/",
             "api.cloudflareclient.com",
-            "license.pdfexpert.com"
+            "license.pdfexpert.com",
+            ".lefou666.com",
+            ".paojiao.live",
+            ".vlightv.com",
+            "/req3.php",
+            "/request.php",
+            ".edubotcoll.com",
+            ".huoxing00.com",
+            "/api/customers/getOrCreate",
+            ".upaiyun.com",
+            ".owxo.com",
+            ".yeduapp.com",
+            ".amemv.com",
+            "/Svip/SVIP_Existence.aspx"
         ]
     }
 }

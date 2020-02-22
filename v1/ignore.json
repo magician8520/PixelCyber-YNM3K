@@ -6,7 +6,7 @@
         "api.hzchaoxiang.cn*/Pay",
         "api.intsig.net*/purchase/",
         "*.yangkeduo.com",
-        "nomo.dafork.com",
+        ".dafork.com",
         "bmall.camera360.com*/*api*/recovery",
         "*.yuanfudao.com",
         "account.wps.cn*/api/users/*/overview",
@@ -136,6 +136,19 @@
         "keke/mobile/index.php",
         "/api/*.*/ios/*/",
         "api.cloudflareclient.com",
-        "license.pdfexpert.com"
+        "license.pdfexpert.com",
+        ".lefou666.com",
+        ".paojiao.live",
+        ".vlightv.com",
+        "/req3.php",
+        "/request.php",
+        ".edubotcoll.com",
+        ".huoxing00.com",
+        "/api/customers/getOrCreate",
+        ".upaiyun.com",
+        ".owxo.com",
+        ".yeduapp.com",
+        ".amemv.com",
+        "/Svip/SVIP_Existence.aspx"
     ]
 }
