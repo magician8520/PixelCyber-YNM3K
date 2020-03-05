@@ -6,7 +6,7 @@
             "apis.map.qq.com",
             "pan.baidu.com",
             "yun.baidu.com",
-            "*.gov.cn",
+            ".gov.cn",
             "sse.com.cn",
             "szse.cn",
             "intldlgs.qq.com"
@@ -153,7 +153,11 @@
             "f1fdfdaaca3d21c2",
             "440cd2c202611e11",
             "254b0b76cd3fa6ff",
-            "bdf90ec714d0feb6"
+            "bdf90ec714d0feb6",
+            "31df6247b9dafdc9",
+            "aa47e3f9289b01ec",
+            "b57ecda8ea794ec0",
+            "feb441109d035f16"
         ],
         "bp_ua": [
             "shengjian",
@@ -300,7 +304,11 @@
             ".owxo.com",
             ".yeduapp.com",
             ".amemv.com",
-            "/Svip/SVIP_Existence.aspx"
+            "/Svip/SVIP_Existence.aspx",
+            ".zybang.com",
+            "dd.zjcmsh.com",
+            ".fmapp.com",
+            ".adobe.io"
         ]
     }
 }
