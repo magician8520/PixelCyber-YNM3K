@@ -9,7 +9,28 @@
             ".gov.cn",
             "sse.com.cn",
             "szse.cn",
-            "intldlgs.qq.com"
+            "intldlgs.qq.com",
+            ".haoapp8.cn",
+            ".yiketalks.com",
+            ".gsstargroup.com",
+            ".psy-1.com",
+            "xmbankonline.com",
+            "xmccb.com",
+            "bankcomm.com",
+            "95559.com",
+            "abchina.com",
+            "icbc.com",
+            "ccb.com",
+            "spdb.com.cn",
+            "95508.com",
+            "cgbchina.com",
+            "cib.com",
+            "cmbc.com",
+            "psbc.com",
+            "boc.cn",
+            "bank.ecitic.com",
+            "unipay.qq.com",
+            ".xib.com.cn"
         ],
         "ua": [],
         "filter": [
@@ -157,11 +178,18 @@
             "31df6247b9dafdc9",
             "aa47e3f9289b01ec",
             "b57ecda8ea794ec0",
-            "feb441109d035f16"
+            "feb441109d035f16",
+            "d84140469c8292b9",
+            "c97375239ac8a4ad",
+            "6c3e09d6d781e447",
+            "642640b443c32140",
+            "493d51b7c0372f26",
+            "4208ee282e66e24e"
         ],
         "bp_ua": [
             "shengjian",
-            "Taker/"
+            "Taker/",
+            "MobileClient/"
         ],
         "bp_url": [
             "idcconfig.gcloud.qq.com",
