@@ -10,12 +10,12 @@
         },
         {
             "enable": false,
-            "maxActivatedDeviceCount": 5,
+            "maxActivatedDeviceCount": 6,
             "maxActivatedUserCount": 3,
             "grayScaleBase": 5,
             "grayScaleRange": [
-                0,
-                3
+                1,
+                4
             ],
             "beginVer": null,
             "endVer": null,
@@ -23,7 +23,8 @@
             "keepAlive": true
         },
         {
-            "enable": false
+            "enable": false,
+            "keepAlive": true
         }
     ]
 }
