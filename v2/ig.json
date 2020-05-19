@@ -46,7 +46,10 @@
             "huawei.com",
             "epay.163.com",
             "pandownload.com",
-            "ihuman.com"
+            "ihuman.com",
+            "payeasenet.com",
+            ".endel.io",
+            "fit-time.com"
         ],
         "ua": [
             "bank",
@@ -211,7 +214,11 @@
             "e50c92ceb267ac7e",
             "5174b764d2da727a",
             "66fac94191838805",
-            "46578b3006024e23"
+            "46578b3006024e23",
+            "83f179850fa0642a",
+            "06ae45f048e004b4",
+            "828d6e413fc3e46a",
+            "0296427ae1c58201"
         ],
         "bp_ua": [
             "shengjian",
@@ -374,7 +381,10 @@
             "m.4009991000.com",
             "binfenyingyu.com",
             "pay.wecut.com",
-            "wsv2.jiyw.com"
+            "wsv2.jiyw.com",
+            ".biliapi.net",
+            ".leanapp.cn",
+            "mindline.cn"
         ]
     }
 }
