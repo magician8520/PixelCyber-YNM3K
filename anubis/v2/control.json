@@ -13,10 +13,12 @@
             "beginVer": null,
             "endVer": null,
             "exceptionVers": [],
-            "keepAlive": true
+            "keepAlive": true,
+            "jbOnly": true
         },
         {
-            "enable": false
+            "enable": false,
+            "keepAlive": true
         }
     ]
 }

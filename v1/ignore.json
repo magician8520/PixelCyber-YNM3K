@@ -70,8 +70,6 @@
         "imshengjian.com",
         "/purchase/cs/query_property",
         "app.xunjiepdf.com",
-        "/klass/*/k/",
-        "/training/*/exercises/",
         "pretamakeup.com",
         "pretapplereceiptvalidation.azurewebsites.net",
         "peiyinxiu.com",
@@ -124,7 +122,6 @@
         ".fenxianglife.com",
         "/finevideo-account/api/user/detail",
         "/api/user/currentUser",
-        "/jingting/GetThisChapterTaskStatus",
         "/ez/studentapp/v15/getUserDetail",
         "/app_api/*/getuserinfo/",
         "/v*/ecycoin/",
@@ -208,6 +205,19 @@
         "payeasenet.com",
         ".endel.io",
         "fit-time.com",
-        "api.ylyk.com"
+        "api.ylyk.com",
+        ".xinxuanfd.",
+        ".mkzhan.com",
+        ".eudic.net",
+        ".flashdown365.com",
+        ".51zxw.net",
+        ".dxy.cn",
+        ".gstarcad.com",
+        ".gotokeep.com",
+        ".meiease.cn",
+        ".picsart.com",
+        ".fatecompanion.com",
+        ".127.net",
+        ".onesignal.com"
     ]
 }
