@@ -11,6 +11,20 @@
         },
         {
             "enable": true,
+            "maxActivatedDeviceCount": 6,
+            "maxActivatedUserCount": 3,
+            "grayScaleBase": 5,
+            "grayScaleRange": [
+                0,
+                3
+            ],
+            "beginVer": "1.4.0",
+            "endVer": "1.4.1",
+            "keepAlive": true,
+            "jbOnly": true
+        },
+        {
+            "enable": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
             "blockOld": true,
