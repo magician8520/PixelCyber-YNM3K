@@ -14,12 +14,13 @@
             ],
             "beginVer": "0.0.0",
             "endVer": "89.0.0",
-            "exceptionVers": ["1.4.2"],
+            "exceptionVers": ["1.4.1", "1.4.2"],
             "keepAlive": true
         },
         {
             "enable": false,
-            "blockOld": true
+            "blockOld": true,
+            "keepAlive": true
         }
     ]
 }

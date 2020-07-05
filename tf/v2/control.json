@@ -7,10 +7,10 @@
             "maxActivatedUserCount": 0,
             "blockOld": true,
             "beginVer": "1.3.6",
-            "endVer": "1.3.8"
+            "endVer": "1.3.9"
         },
         {
-            "enable": true,
+            "enable": false,
             "maxActivatedDeviceCount": 6,
             "maxActivatedUserCount": 3,
             "grayScaleBase": 5,
