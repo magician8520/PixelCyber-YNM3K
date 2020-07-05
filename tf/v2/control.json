@@ -34,9 +34,9 @@
                 1,
                 2
             ],
-            "beginVer": "0.0.0",
+            "beginVer": "1.4.1",
             "endVer": "89.0.0",
-            "exceptionVers": ["1.4.1"],
+            "exceptionVers": ["1.4.2"],
             "keepAlive": true
         },
         {
