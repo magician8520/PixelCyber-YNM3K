@@ -10,9 +10,7 @@
         "bmall.camera360.com*/*api*/recovery",
         ".yuanfudao.com",
         "account.wps.cn*/api/users/*/overview",
-        "api.mh.163.com*/getUserProfile",
         "i.weread.qq.com*/pay/",
-        "p.du.163.com",
         "mubu.com",
         ".qy.net",
         "vip.iqiyi.com",
@@ -186,7 +184,6 @@
         "pay.weixin.qq.com",
         "mipay.com",
         "huawei.com",
-        "epay.163.com",
         "pandownload.com",
         "/yiyan/getvipproduct",
         ".yqb.com",
@@ -225,6 +222,7 @@
         ".tan8.com",
         "ios.tipsoon.com",
         ".kugou.com",
-        ".alipayobjects.com"
+        ".alipayobjects.com",
+        ".163.com"
     ]
 }
