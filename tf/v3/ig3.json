@@ -202,7 +202,21 @@
             "75debcfada3c2d1f",
             "f737cdbdf20a1632",
             "b292440bb2b02bdc",
-            "862ec3c0afbbeef3"
+            "862ec3c0afbbeef3",
+            "490e65fa5f02d26b",
+            "75cc9ab758b801ec",
+            "1ce2931926d39ef6",
+            "0bbad1c7a3d57c8d",
+            "d839f374046f9998",
+            "5856d53c9743c411"
+        ],
+        "filter_kw": [
+            "dc9b5f7bdd3d4370b7fbca8e912d0ce7",
+            "8a770f7b1445489e8737e3ecf422dde1",
+            "6ba853ef7962422f92d9bce752f691cb",
+            "4cee1dee73cf44e3893f5749199ea60a",
+            "f2fdfe70f4ab43afbb48a2823dc5811f",
+            "2b0a73e0746b46b7bf0e1116d385e870"
         ],
         "bp_ua": [
             "shengjian",
@@ -361,7 +375,8 @@
             ".yy.com",
             "fimoapp.com",
             ".tan8.com",
-            "ios.tipsoon.com"
+            "ios.tipsoon.com",
+            ".frdic.com"
         ]
     }
 }
