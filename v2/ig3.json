@@ -205,7 +205,10 @@
             "1ce2931926d39ef6",
             "0bbad1c7a3d57c8d",
             "d839f374046f9998",
-            "5856d53c9743c411"
+            "5856d53c9743c411",
+            "9686ffce5fa419b1",
+            "ff59c29cd09d2fb1",
+            "4e3b1bb1d0111c34"
         ],
         "bp_ua": [
             "shengjian",
@@ -374,7 +377,8 @@
             "ios.tipsoon.com",
             ".kugou.com",
             ".alipayobjects.com",
-            ".frdic.com"
+            ".frdic.com",
+            ".quizlet.com"
         ]
     }
 }
