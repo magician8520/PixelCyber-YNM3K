@@ -211,12 +211,30 @@
             "5856d53c9743c411",
             "9686ffce5fa419b1",
             "ff59c29cd09d2fb1",
-            "4e3b1bb1d0111c34"
+            "4e3b1bb1d0111c34",
+            "09fdd0aac9686ea5",
+            "06f6cca2bcd0096b",
+            "96c8cb3985997e45",
+            "e22c32db0cd7ade8",
+            "48ba3d6aaa523912",
+            "d53a1346bd1eb28e",
+            "61a3522fc550f8b9",
+            "4ad09131c05fb1b1",
+            "eae8788496c87320"
         ],
         "filter_kw": [
             "dc9b5f7bdd3d4370b7fbca8e912d0ce7",
             "8a770f7b1445489e8737e3ecf422dde1",
-            "f2fdfe70f4ab43afbb48a2823dc5811f"
+            "6ba853ef7962422f92d9bce752f691cb",
+            "4cee1dee73cf44e3893f5749199ea60a",
+            "f2fdfe70f4ab43afbb48a2823dc5811f",
+            "2b0a73e0746b46b7bf0e1116d385e870",
+            "42160674bd364ff99360e12467b02195",
+            "79df55e8b57348a587e519af86575eb8",
+            "51871492e2d645ec82fe7ef571db030a",
+            "32f23a238f674a5b9c3c61e748c57ed8",
+            "1f3f20a4590a4528ba9df674358e4d31",
+            "00d774b1f8a34806b8d6f070827b8216"
         ],
         "bp_ua": [
             "shengjian",
@@ -374,7 +392,14 @@
             ".tan8.com",
             "ios.tipsoon.com",
             ".frdic.com",
-            ".quizlet.com"
+            ".quizlet.com",
+            ".gzcb.com",
+            ".5568gy.com",
+            ".qichacha.com",
+            ".qm989.com",
+            ".gmugmu.cn",
+            ".migu.cn",
+            "/MIGUM"
         ]
     }
 }
