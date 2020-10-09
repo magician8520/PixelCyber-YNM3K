@@ -220,7 +220,11 @@
             "d53a1346bd1eb28e",
             "61a3522fc550f8b9",
             "4ad09131c05fb1b1",
-            "eae8788496c87320"
+            "eae8788496c87320",
+            "8e987a7a3571dac5",
+            "38d7922364eecb2b",
+            "1bab0b4783c107a8",
+            "ddcad8c59afc0d98"
         ],
         "filter_kw": [
             "dc9b5f7bdd3d4370b7fbca8e912d0ce7",
@@ -234,7 +238,10 @@
             "51871492e2d645ec82fe7ef571db030a",
             "32f23a238f674a5b9c3c61e748c57ed8",
             "1f3f20a4590a4528ba9df674358e4d31",
-            "00d774b1f8a34806b8d6f070827b8216"
+            "00d774b1f8a34806b8d6f070827b8216",
+            "dcb4e121789e4d37a2aae377df59e0e2",
+            "42a015b8d2354f35868a8b47aaed3666",
+            "3ef77e6d38c04f9486443eb7416ed797"
         ],
         "bp_ua": [
             "shengjian",
@@ -399,7 +406,10 @@
             ".qm989.com",
             ".gmugmu.cn",
             ".migu.cn",
-            "/MIGUM"
+            "/MIGUM",
+            ".ditwan.cn",
+            ".popcap.com.cn",
+            ".papa21.com"
         ]
     }
 }

@@ -7,21 +7,7 @@
             "maxActivatedUserCount": 0,
             "blockOld": true,
             "beginVer": "1.3.6",
-            "endVer": "1.3.9"
-        },
-        {
-            "enable": false,
-            "maxActivatedDeviceCount": 6,
-            "maxActivatedUserCount": 3,
-            "grayScaleBase": 5,
-            "grayScaleRange": [
-                0,
-                3
-            ],
-            "beginVer": "1.4.0",
-            "endVer": "1.4.1",
-            "keepAlive": true,
-            "jbOnly": true
+            "endVer": "1.4.1"
         },
         {
             "enable": true,
@@ -34,9 +20,9 @@
                 1,
                 2
             ],
-            "beginVer": "1.4.1",
+            "beginVer": "1.4.2",
             "endVer": "89.0.0",
-            "exceptionVers": ["1.4.2"],
+            "exceptionVers": ["1.4.3"],
             "keepAlive": true
         },
         {
