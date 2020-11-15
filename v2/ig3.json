@@ -221,7 +221,8 @@
             "8e987a7a3571dac5",
             "38d7922364eecb2b",
             "1bab0b4783c107a8",
-            "ddcad8c59afc0d98"
+            "ddcad8c59afc0d98",
+            "096a667b428c4932"
         ],
         "bp_ua": [
             "shengjian",
@@ -403,7 +404,12 @@
             ".popcap.com.cn",
             ".papa21.com",
             ".vuevideo.net",
-            ".jd.com"
+            ".jd.com",
+            ".youku.com",
+            ".soku.com",
+            ".tudou.com",
+            ".cibntv.net",
+            "appwk.baidu.com"
         ]
     }
 }

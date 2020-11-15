@@ -224,7 +224,8 @@
             "8e987a7a3571dac5",
             "38d7922364eecb2b",
             "1bab0b4783c107a8",
-            "ddcad8c59afc0d98"
+            "ddcad8c59afc0d98",
+            "096a667b428c4932"
         ],
         "filter_kw": [
             "dc9b5f7bdd3d4370b7fbca8e912d0ce7",
@@ -241,7 +242,8 @@
             "00d774b1f8a34806b8d6f070827b8216",
             "dcb4e121789e4d37a2aae377df59e0e2",
             "42a015b8d2354f35868a8b47aaed3666",
-            "3ef77e6d38c04f9486443eb7416ed797"
+            "3ef77e6d38c04f9486443eb7416ed797",
+            "f93cddbed1e44c92b09d787e38f464ee"
 
         ],
         "bp_ua": [
@@ -415,7 +417,12 @@
             ".popcap.com.cn",
             ".papa21.com",
             ".vuevideo.net",
-            ".jd.com"
+            ".jd.com",
+            ".youku.com",
+            ".soku.com",
+            ".tudou.com",
+            ".cibntv.net",
+            "appwk.baidu.com"
         ]
     }
 }
