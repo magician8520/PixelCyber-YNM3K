@@ -244,7 +244,19 @@
         ".cibntv.net",
         "appwk.baidu.com",
         "qpyou.cn",
-        "mb3admin.com"
-
+        "mb3admin.com",
+        ".jd.com",
+        "bank.",
+        ".*rcc.com",
+        ".*rcb.com",
+        "scrcu.com",
+        "ahrcu.com",
+        ".*rcu.com",
+        "sdnxs.com",
+        "962268.com",
+        "96336.com",
+        "96596.com",
+        "961200.com",
+        "96008.com"
     ]
 }

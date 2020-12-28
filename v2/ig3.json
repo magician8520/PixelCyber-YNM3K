@@ -10,7 +10,16 @@
             "ihuman.com",
             ".endel.io",
             "fit-time.com",
-            "qpyou.cn"
+            "qpyou.cn",
+            "scrcu.com",
+            "ahrcu.com",
+            ".*rcu.com",
+            "sdnxs.com",
+            "962268.com",
+            "96336.com",
+            "96596.com",
+            "961200.com",
+            "96008.com"
         ],
         "ua": [
             "bank",
@@ -411,7 +420,11 @@
             ".tudou.com",
             ".cibntv.net",
             "appwk.baidu.com",
-            "mb3admin.com"
+            "mb3admin.com",
+            ".jd.com",
+            "bank.",
+            ".*rcc.com",
+            ".*rcb.com"
         ]
     }
 }
