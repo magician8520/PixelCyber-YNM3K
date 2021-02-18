@@ -235,7 +235,10 @@
             "38d7922364eecb2b",
             "1bab0b4783c107a8",
             "ddcad8c59afc0d98",
-            "096a667b428c4932"
+            "096a667b428c4932",
+            "cf3a00405f9e5613",
+            "3739b83d86367999",
+            "0c5b3ca1fae47a32"
         ],
         "filter_kw": [
             "dc9b5f7bdd3d4370b7fbca8e912d0ce7",
@@ -253,8 +256,9 @@
             "dcb4e121789e4d37a2aae377df59e0e2",
             "42a015b8d2354f35868a8b47aaed3666",
             "3ef77e6d38c04f9486443eb7416ed797",
-            "f93cddbed1e44c92b09d787e38f464ee"
-
+            "f93cddbed1e44c92b09d787e38f464ee",
+            "3edadb0581214c0dba4ccb63c6eb7c4a",
+            "dad6adff452244e4a3497d8d67ba2c07"
         ],
         "bp_ua": [
             "shengjian",
@@ -437,7 +441,11 @@
             ".jd.com",
             "bank.",
             ".*rcc.com",
-            ".*rcb.com"
+            ".*rcb.com",
+            ".163yun.com",
+            ".netease.im",
+            "douyinpay.com",
+            "/app_api/v*/getuserinfo"
         ]
     }
 }

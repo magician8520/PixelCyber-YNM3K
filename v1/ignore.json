@@ -257,6 +257,10 @@
         "96336.com",
         "96596.com",
         "961200.com",
-        "96008.com"
+        "96008.com",
+        ".163yun.com",
+        ".netease.im",
+        "douyinpay.com",
+        "/app_api/v*/getuserinfo"
     ]
 }

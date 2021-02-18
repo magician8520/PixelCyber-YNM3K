@@ -275,7 +275,10 @@
             "38d7922364eecb2b",
             "1bab0b4783c107a8",
             "ddcad8c59afc0d98",
-            "096a667b428c4932"
+            "096a667b428c4932",
+            "cf3a00405f9e5613",
+            "3739b83d86367999",
+            "0c5b3ca1fae47a32"
         ],
         "bp_ua": [
             "shengjian",
@@ -482,7 +485,11 @@
             ".jd.com",
             "bank.",
             ".*rcc.com",
-            ".*rcb.com"
+            ".*rcb.com",
+            ".163yun.com",
+            ".netease.im",
+            "douyinpay.com",
+            "/app_api/v*/getuserinfo"
         ]
     }
 }
