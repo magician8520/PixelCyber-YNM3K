@@ -19,7 +19,8 @@
             "96336.com",
             "96596.com",
             "961200.com",
-            "96008.com"
+            "96008.com",
+            ".bocd.com"
         ],
         "ua": [
             "bank",
@@ -238,7 +239,8 @@
             "096a667b428c4932",
             "cf3a00405f9e5613",
             "3739b83d86367999",
-            "0c5b3ca1fae47a32"
+            "0c5b3ca1fae47a32",
+            "61738e6c1a2e1ab9"
         ],
         "filter_kw": [
             "dc9b5f7bdd3d4370b7fbca8e912d0ce7",
@@ -258,7 +260,8 @@
             "3ef77e6d38c04f9486443eb7416ed797",
             "f93cddbed1e44c92b09d787e38f464ee",
             "3edadb0581214c0dba4ccb63c6eb7c4a",
-            "dad6adff452244e4a3497d8d67ba2c07"
+            "dad6adff452244e4a3497d8d67ba2c07",
+            "699cf8734d5848ff96d01001aa2ed590"
         ],
         "bp_ua": [
             "shengjian",
@@ -445,7 +448,8 @@
             ".163yun.com",
             ".netease.im",
             "douyinpay.com",
-            "/app_api/v*/getuserinfo"
+            "/app_api/v*/getuserinfo",
+            ".intsig.net"
         ]
     }
 }

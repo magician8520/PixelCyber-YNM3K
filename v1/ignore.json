@@ -261,6 +261,8 @@
         ".163yun.com",
         ".netease.im",
         "douyinpay.com",
-        "/app_api/v*/getuserinfo"
+        "/app_api/v*/getuserinfo",
+        ".intsig.net",
+        ".bocd.com"
     ]
 }

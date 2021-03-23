@@ -59,7 +59,8 @@
             "96336.com",
             "96596.com",
             "961200.com",
-            "96008.com"
+            "96008.com",
+            ".bocd.com"
         ],
         "ua": [
             "bank",
@@ -276,7 +277,8 @@
             "096a667b428c4932",
             "cf3a00405f9e5613",
             "3739b83d86367999",
-            "0c5b3ca1fae47a32"
+            "0c5b3ca1fae47a32",
+            "61738e6c1a2e1ab9"
         ],
         "bp_ua": [
             "shengjian",
@@ -487,7 +489,8 @@
             ".163yun.com",
             ".netease.im",
             "douyinpay.com",
-            "/app_api/v*/getuserinfo"
+            "/app_api/v*/getuserinfo",
+            ".intsig.net"
         ]
     }
 }
