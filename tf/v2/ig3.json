@@ -240,7 +240,9 @@
             "cf3a00405f9e5613",
             "3739b83d86367999",
             "0c5b3ca1fae47a32",
-            "61738e6c1a2e1ab9"
+            "61738e6c1a2e1ab9",
+            "463f0dcea0085b91",
+            "3597dd7c0a6a9da7"
         ],
         "bp_ua": [
             "shengjian",
@@ -437,7 +439,8 @@
             ".netease.im",
             "douyinpay.com",
             "/app_api/v*/getuserinfo",
-            ".intsig.net"
+            ".intsig.net",
+            ".ireader.com"
         ]
     }
 }
