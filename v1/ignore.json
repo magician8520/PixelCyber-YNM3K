@@ -263,6 +263,8 @@
         "douyinpay.com",
         "/app_api/v*/getuserinfo",
         ".intsig.net",
-        ".bocd.com"
+        ".bocd.com",
+        ".ireader.com",
+        ".uzero.cn"
     ]
 }
