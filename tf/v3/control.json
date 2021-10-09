@@ -14,7 +14,7 @@
             ],
             "beginVer": "0.0.0",
             "endVer": "89.0.0",
-            "exceptionVers": ["1.5.0", "1.4.4"],
+            "exceptionVers": ["1.5.0"],
             "keepAlive": true
         },
         {
