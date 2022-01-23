@@ -252,7 +252,8 @@
         "bp_ua": [
             "shengjian",
             "Taker/",
-            "MobileClient/"
+            "MobileClient/",
+            "JD4iPhone"
         ],
         "bp_url": [
             "api.hzchaoxiang.cn*/Pay",
@@ -446,7 +447,8 @@
             "/app_api/v*/getuserinfo",
             ".intsig.net",
             ".ireader.com",
-            ".uzero.cn"
+            ".uzero.cn",
+            ".360buyimg.com"
         ]
     }
 }
