@@ -13,14 +13,14 @@
             "enable": true,
             "maxActivatedDeviceCount": 6,
             "maxActivatedUserCount": 3,
-            "grayScaleBase": 5,
+            "grayScaleBase": 2,
             "grayScaleRange": [
                 0,
-                3
+                1
             ],
             "beginVer": "1.3.7",
-            "endVer": "1.4.0",
-            "exceptionVers": ["1.4.1"],
+            "endVer": "1.4.3",
+            "exceptionVers": [],
             "keepAlive": true,
             "jbOnly": true
         },
@@ -28,7 +28,7 @@
             "enable": false,
             "maxActivatedDeviceCount": 0,
             "maxActivatedUserCount": 0,
-            "beginVer": "1.4.1",
+            "beginVer": "1.4.4",
             "endVer": "2.0.0",
             "keepAlive": true,
             "jbOnly": true
