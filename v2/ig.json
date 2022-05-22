@@ -67,7 +67,9 @@
             "weixin110.qq.com",
             "support.weixin.qq.com",
             "ifeedback.qq.com",
-            ".captcha.qq.com"
+            ".captcha.qq.com",
+            ".weixin.qq.com*/report",
+            "101.91.*/report"
         ],
         "ua": [
             "bank",
