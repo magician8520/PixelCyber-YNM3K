@@ -1,0 +1,18 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "enable": false,
+            "beginVer": "1.5.0",
+            "endVer": "2.0.0",
+            "keepAlive": true,
+            "jbOnly": true
+        },
+        {
+            "enable": true,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 0,
+            "blockOld": true
+        }
+    ]
+}

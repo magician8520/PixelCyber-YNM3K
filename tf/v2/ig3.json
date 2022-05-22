@@ -23,7 +23,12 @@
             ".bocd.com",
             ".gjfzpt.cn",
             ".fzlm.org.cn",
-            ".pbcdci.cn"
+            ".pbcdci.cn",
+            "baitiao.jd.com",
+            "weixin110.qq.com",
+            "support.weixin.qq.com",
+            "ifeedback.qq.com",
+            ".captcha.qq.com"
         ],
         "ua": [
             "bank",
@@ -346,7 +351,6 @@
             "yuanfudao.com",
             ".yangkeduo.com",
             "ximalaya.com",
-            "baitiao.jd.com",
             ".ergedd.com",
             ".wmkankan.com",
             "snailsleep.net",
@@ -444,7 +448,6 @@
             ".cibntv.net",
             "appwk.baidu.com",
             "mb3admin.com",
-            ".jd.com",
             "bank.",
             ".*rcc.com",
             ".*rcb.com",
@@ -455,7 +458,9 @@
             ".intsig.net",
             ".ireader.com",
             ".uzero.cn",
-            ".360buyimg.com"
+            ".360buyimg.com",
+            ".org.cn",
+            ".edu.cn"
         ]
     }
 }

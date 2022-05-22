@@ -178,7 +178,6 @@
         "unionpay.com",
         "95516.com",
         "baifubao.com",
-        "baitiao.jd.com",
         "chinaunicom.com",
         "xuexi.cn",
         "pay.weixin.qq.com",
@@ -245,7 +244,6 @@
         "appwk.baidu.com",
         "qpyou.cn",
         "mb3admin.com",
-        ".jd.com",
         "bank.",
         ".*rcc.com",
         ".*rcb.com",
@@ -267,8 +265,13 @@
         ".ireader.com",
         ".uzero.cn",
         ".gjfzpt.cn",
-        ".fzlm.org.cn",
         ".pbcdci.cn",
-        ".360buyimg.com"
+        ".360buyimg.com",
+        "weixin110.qq.com",
+        "support.weixin.qq.com",
+        "ifeedback.qq.com",
+        ".captcha.qq.com",
+        ".org.cn",
+        ".edu.cn"
     ]
 }

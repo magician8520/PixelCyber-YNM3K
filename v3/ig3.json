@@ -23,7 +23,11 @@
             ".bocd.com",
             ".gjfzpt.cn",
             ".fzlm.org.cn",
-            ".pbcdci.cn"
+            ".pbcdci.cn",
+            "weixin110.qq.com",
+            "support.weixin.qq.com",
+            "ifeedback.qq.com",
+            ".captcha.qq.com"
         ],
         "ua": [
             "bank",
@@ -449,7 +453,6 @@
             ".popcap.com.cn",
             ".papa21.com",
             ".vuevideo.net",
-            ".jd.com",
             ".youku.com",
             ".soku.com",
             ".tudou.com",
@@ -467,7 +470,9 @@
             ".intsig.net",
             ".ireader.com",
             ".uzero.cn",
-            ".360buyimg.com"
+            ".360buyimg.com",
+            ".org.cn",
+            ".edu.cn"
         ]
     }
 }
