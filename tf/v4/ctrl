@@ -2,17 +2,25 @@
     "code": 200,
     "data": [
         {
-            "enable": false,
-            "beginVer": "1.5.0",
-            "endVer": "2.0.0",
-            "keepAlive": true,
-            "jbOnly": true
+            "enable": true,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 1,
+            "blockOld": true,
+            "grayScaleBase": 3,
+            "grayScaleRange": [
+                0,
+                1,
+                2
+            ],
+            "beginVer": "0.0.0",
+            "endVer": "89.0.0",
+            "exceptionVers": ["1.5.1"],
+            "keepAlive": true
         },
         {
-            "enable": true,
-            "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0,
-            "blockOld": true
+            "enable": false,
+            "blockOld": true,
+            "keepAlive": true
         }
     ]
 }
