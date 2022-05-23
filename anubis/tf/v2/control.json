@@ -14,16 +14,22 @@
             "beginVer": "1.1.0",
             "endVer": "89.0.0",
             "exceptionVers": ["1.2.2"],
-            "keepAlive": false
+            "keepAlive": true
         },
         {
             "enable": true,
-            "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 0,
             "beginVer": "1.2.2",
             "endVer": "1.2.2",
-            "exceptionVers": ["1.2.2.337", "1.2.2.338", "1.2.2.339"],
-            "keepAlive": false
+            "exceptionVers": ["1.2.2.337", "1.2.2.338", "1.2.2.339", "1.2.2.440"]
+        },
+        {
+            "enable": false,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 1,
+            "beginVer": "1.2.2",
+            "endVer": "1.2.2",
+            "keepAlive": true
         },
         {
             "enable": false

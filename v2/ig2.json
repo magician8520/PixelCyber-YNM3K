@@ -78,7 +78,10 @@
             "auth.alipay.com",
             "authet2.alipay.com",
             "securityassistant.alipay.com",
-            "passport.alibaba.com"
+            "passport.alibaba.com",
+            ".bilibili.com*/appeal",
+            ".weibo.com*/reportspam",
+            ".jd.com*/getCoupon"
         ],
         "ua": [
             "bank",
