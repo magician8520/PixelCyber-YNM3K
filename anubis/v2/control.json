@@ -2,6 +2,19 @@
     "code": 200,
     "data": [
         {
+            "enable": true,
+            "maxActivatedUserCount": 0,
+            "endVer": "1.1.8"
+        },
+        {
+            "enable": false,
+            "maxActivatedDeviceCount": 5,
+            "maxActivatedUserCount": 3,
+            "beginVer": "1.2.0",
+            "endVer": "1.2.0",
+            "keepAlive": false
+        },
+        {
             "enable": false,
             "maxActivatedDeviceCount": 5,
             "maxActivatedUserCount": 3,
@@ -10,9 +23,6 @@
                 0,
                 3
             ],
-            "beginVer": null,
-            "endVer": null,
-            "exceptionVers": [],
             "keepAlive": true,
             "jbOnly": true
         },

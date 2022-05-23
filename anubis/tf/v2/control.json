@@ -5,18 +5,25 @@
             "enable": false,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
-            "grayScaleBase": 5,
+            "grayScaleBase": 3,
             "grayScaleRange": [
                 0,
                 1,
-                2,
-                3,
-                4
+                2
             ],
             "beginVer": "1.1.0",
             "endVer": "89.0.0",
-            "exceptionVers": [],
-            "keepAlive": true
+            "exceptionVers": ["1.2.2"],
+            "keepAlive": false
+        },
+        {
+            "enable": true,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 0,
+            "beginVer": "1.2.2",
+            "endVer": "1.2.2",
+            "exceptionVers": ["1.2.2.338", "1.2.2.339"],
+            "keepAlive": false
         },
         {
             "enable": false

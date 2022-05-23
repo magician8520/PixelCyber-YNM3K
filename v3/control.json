@@ -3,18 +3,23 @@
     "data": [
         {
             "enable": true,
+            "maxActivatedUserCount": 0,
+            "beginVer": "1.4.0",
+            "endVer": "1.4.2"
+        },
+        {
+            "enable": true,
             "maxActivatedDeviceCount": 6,
             "maxActivatedUserCount": 3,
-            "grayScaleBase": 5,
+            "grayScaleBase": 4,
             "grayScaleRange": [
                 0,
-                3
+                1,
+                2
             ],
-            "beginVer": "1.4.0",
+            "beginVer": "1.4.3",
             "endVer": "1.4.3",
-            "exceptionVers": [],
-            "keepAlive": true,
-            "jbOnly": true
+            "keepAlive": true
         },
         {
             "enable": false,

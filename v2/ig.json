@@ -69,7 +69,16 @@
             "ifeedback.qq.com",
             ".captcha.qq.com",
             ".weixin.qq.com*/report",
-            "101.91.*/report"
+            "101.91.*/report",
+            "jubao.qq.com",
+            "/uniform_impeach/",
+            "/feedback/*/report_user/",
+            "ipr.alipay.com",
+            "securitycore.alipay.com",
+            "auth.alipay.com",
+            "authet2.alipay.com",
+            "securityassistant.alipay.com",
+            "passport.alibaba.com"
         ],
         "ua": [
             "bank",
@@ -515,7 +524,9 @@
             ".uzero.cn",
             ".360buyimg.com",
             ".org.cn",
-            ".edu.cn"
+            ".edu.cn",
+            "alibaba.com",
+            "alipay.com"
         ]
     }
 }
