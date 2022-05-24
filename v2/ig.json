@@ -529,7 +529,9 @@
             ".org.cn",
             ".edu.cn",
             "alibaba.com",
-            "alipay.com"
+            "alipay.com",
+            ".zijieapi.com",
+            ".snssdk.com"
         ]
     }
 }
