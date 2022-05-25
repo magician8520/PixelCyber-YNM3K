@@ -18,7 +18,6 @@
         },
         {
             "enable": true,
-            "maxActivatedUserCount": 0,
             "beginVer": "1.2.2",
             "endVer": "1.2.2",
             "exceptionVers": ["1.2.2.337", "1.2.2.338", "1.2.2.339", "1.2.2.341", "1.2.2.342"]

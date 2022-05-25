@@ -10,8 +10,6 @@
         },
         {
             "enable": true,
-            "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0,
             "blockOld": true
         }
     ]

@@ -3,7 +3,6 @@
     "data": [
         {
             "enable": true,
-            "maxActivatedUserCount": 0,
             "endVer": "1.1.8"
         },
         {
@@ -11,8 +10,7 @@
             "maxActivatedDeviceCount": 5,
             "maxActivatedUserCount": 3,
             "beginVer": "1.2.0",
-            "endVer": "1.2.0",
-            "keepAlive": false
+            "endVer": "1.2.0"
         },
         {
             "enable": false,

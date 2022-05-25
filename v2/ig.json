@@ -81,7 +81,10 @@
             "passport.alibaba.com",
             ".bilibili.com*/appeal",
             ".weibo.com*/reportspam",
-            ".jd.com*/getCoupon"
+            ".jd.com*/getCoupon",
+            "aq.qq.com",
+            "accounts.qq.com",
+            ".qq.com*/*login"
         ],
         "ua": [
             "bank",

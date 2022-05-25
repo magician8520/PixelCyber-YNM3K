@@ -288,6 +288,9 @@
         ".weibo.com*/reportspam",
         ".jd.com*/getCoupon",
         ".zijieapi.com",
-        ".snssdk.com"
+        ".snssdk.com",
+        "aq.qq.com",
+        "accounts.qq.com",
+        ".qq.com*/*login"
     ]
 }
