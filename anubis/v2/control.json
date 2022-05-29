@@ -3,14 +3,13 @@
     "data": [
         {
             "enable": true,
-            "endVer": "1.1.8"
+            "endVer": "1.2.0"
         },
         {
             "enable": false,
-            "maxActivatedDeviceCount": 5,
-            "maxActivatedUserCount": 3,
-            "beginVer": "1.2.0",
-            "endVer": "1.2.0"
+            "maxActivatedUserCount": 0,
+            "beginVer": "1.2.1",
+            "endVer": "1.2.1"
         },
         {
             "enable": false,

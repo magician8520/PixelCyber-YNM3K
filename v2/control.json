@@ -3,29 +3,12 @@
     "data": [
         {
             "enable": true,
-            "maxActivatedUserCount": 0,
             "blockOld": true,
             "beginVer": "1.3.6",
-            "endVer": "1.3.7"
-        },
-        {
-            "enable": true,
-            "maxActivatedDeviceCount": 6,
-            "maxActivatedUserCount": 3,
-            "beginVer": "1.3.8",
-            "endVer": "1.3.9",
-            "keepAlive": true
-        },
-        {
-            "enable": true,
-            "maxActivatedDeviceCount": 6,
-            "maxActivatedUserCount": 3,
-            "beginVer": "1.4.0",
             "endVer": "1.4.0"
         },
         {
             "enable": true,
-            "maxActivatedUserCount": 0,
             "blockOld": true
         }
     ]
