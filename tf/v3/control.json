@@ -3,7 +3,9 @@
     "data": [
         {
             "enable": true,
-            "blockOld": true
+            "blockOld": true,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 0
         }
     ]
 }
