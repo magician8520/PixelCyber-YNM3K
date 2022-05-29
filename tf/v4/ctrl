@@ -6,11 +6,10 @@
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
             "blockOld": true,
-            "grayScaleBase": 3,
+            "grayScaleBase": 2,
             "grayScaleRange": [
                 0,
-                1,
-                2
+                1
             ],
             "beginVer": "0.0.0",
             "endVer": "89.0.0",
