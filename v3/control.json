@@ -14,7 +14,7 @@
             "blockOld": true,
             "maxActivatedDeviceCount": 5,
             "maxActivatedUserCount": 3,
-            "grayScaleBase": 3,
+            "grayScaleBase": 2,
             "grayScaleRange": [
                 0,
                 1
