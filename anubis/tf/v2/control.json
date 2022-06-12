@@ -3,6 +3,7 @@
     "data": [
         {
             "enable": false,
+            "blockOld": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
             "grayScaleBase": 3,
@@ -27,6 +28,7 @@
         },
         {
             "enable": false,
+            "blockOld": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
             "beginVer": "1.2.2",
@@ -34,7 +36,8 @@
             "keepAlive": true
         },
         {
-            "enable": false
+            "enable": false,
+            "blockOld": true
         }
     ]
 }

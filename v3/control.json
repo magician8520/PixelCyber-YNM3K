@@ -24,6 +24,7 @@
         },
         {
             "enable": false,
+            "blockOld": true,
             "beginVer": "1.4.5",
             "endVer": "2.0.0",
             "keepAlive": true,
