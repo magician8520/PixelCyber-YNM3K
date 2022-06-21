@@ -4,8 +4,8 @@
         {
             "enable": true,
             "blockOld": true,
-            "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0,
+            "maxActivatedDeviceCount": 1,
+            "maxActivatedUserCount": 1,
             "endVer": "1.2.1"
         },
         {
