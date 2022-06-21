@@ -9,17 +9,17 @@
             "endVer": "1.2.1"
         },
         {
-            "enable": false,
+            "enable": true,
             "blockOld": true,
             "maxActivatedDeviceCount": 5,
-            "maxActivatedUserCount": 3,
-            "grayScaleBase": 5,
+            "maxActivatedUserCount": 2,
+            "grayScaleBase": 2,
             "grayScaleRange": [
                 0,
-                3
+                1
             ],
-            "keepAlive": true,
-            "jbOnly": true
+            "endVer": "1.2.2",
+            "keepAlive": true
         },
         {
             "enable": false,

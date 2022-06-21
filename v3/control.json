@@ -14,7 +14,6 @@
             "blockOld": true,
             "maxActivatedDeviceCount": 5,
             "maxActivatedUserCount": 3,
-            "beginVer": "1.4.4",
             "endVer": "1.4.4"
         },
         {
