@@ -3,6 +3,9 @@
     "data": [
         {
             "enable": false,
+            "blockOld": true,
+            "maxActivatedDeviceCount": 5,
+            "maxActivatedUserCount": 3,
             "beginVer": "1.5.0",
             "endVer": "2.0.0",
             "keepAlive": true,
@@ -10,7 +13,9 @@
         },
         {
             "enable": true,
-            "blockOld": true
+            "blockOld": true,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 0
         }
     ]
 }

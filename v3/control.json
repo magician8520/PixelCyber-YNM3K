@@ -14,11 +14,6 @@
             "blockOld": true,
             "maxActivatedDeviceCount": 5,
             "maxActivatedUserCount": 3,
-            "grayScaleBase": 2,
-            "grayScaleRange": [
-                0,
-                1
-            ],
             "beginVer": "1.4.4",
             "endVer": "1.4.4"
         },
@@ -32,7 +27,9 @@
         },
         {
             "enable": true,
-            "blockOld": true
+            "blockOld": true,
+            "maxActivatedDeviceCount": 0,
+            "maxActivatedUserCount": 0
         }
     ]
 }

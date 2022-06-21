@@ -2,42 +2,25 @@
     "code": 200,
     "data": [
         {
-            "enable": false,
-            "blockOld": true,
-            "maxActivatedDeviceCount": 1,
-            "maxActivatedUserCount": 1,
-            "grayScaleBase": 3,
-            "grayScaleRange": [
-                0,
-                1,
-                2
-            ],
-            "beginVer": "1.1.0",
-            "endVer": "89.0.0",
-            "exceptionVers": ["1.2.2"],
-            "keepAlive": true
-        },
-        {
             "enable": true,
             "blockOld": true,
             "maxActivatedDeviceCount": 0,
             "maxActivatedUserCount": 0,
-            "beginVer": "1.2.2",
-            "endVer": "1.2.2",
-            "exceptionVers": ["1.2.2.342"]
+            "endVer": "1.2.2"
         },
         {
             "enable": false,
             "blockOld": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
-            "beginVer": "1.2.2",
-            "endVer": "1.2.2",
+            "beginVer": "1.2.3",
+            "endVer": "89.0.0",
             "keepAlive": true
         },
         {
             "enable": false,
-            "blockOld": true
+            "blockOld": true,
+            "keepAlive": true
         }
     ]
 }

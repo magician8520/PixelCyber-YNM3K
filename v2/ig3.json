@@ -478,7 +478,11 @@
             "alibaba.com",
             "alipay.com",
             ".zijieapi.com",
-            ".snssdk.com"
+            ".snssdk.com",
+            ".weibo.cn",
+            ".weibo.com",
+            ".sina.cn",
+            ".sina.com"
         ]
     }
 }

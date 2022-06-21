@@ -3,9 +3,9 @@
     "data": [
         {
             "enable": true,
+            "blockOld": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
-            "blockOld": true,
             "grayScaleBase": 2,
             "grayScaleRange": [
                 0,

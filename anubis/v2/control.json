@@ -23,9 +23,9 @@
         },
         {
             "enable": false,
+            "blockOld": true,
             "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0,
-            "keepAlive": true
+            "maxActivatedUserCount": 0
         }
     ]
 }

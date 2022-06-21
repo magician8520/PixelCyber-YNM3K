@@ -291,6 +291,10 @@
         ".snssdk.com",
         "aq.qq.com",
         "accounts.qq.com",
-        ".qq.com*/*login"
+        ".qq.com*/*login",
+        ".weibo.cn",
+        ".weibo.com",
+        ".sina.cn",
+        ".sina.com"
     ]
 }
