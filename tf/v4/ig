@@ -4,6 +4,7 @@
         "url": [],
         "filter": [],
         "filter_kw": [],
+        "ua": ["MicroMessenger"],
         "bp_ua": [],
         "bp_url": []
     }
