@@ -6,7 +6,6 @@
             "blockOld": true,
             "maxActivatedDeviceCount": 0,
             "maxActivatedUserCount": 1,
-            "beginVer": "1.4.0",
             "endVer": "1.4.3"
         },
         {
@@ -28,7 +27,7 @@
             "enable": true,
             "blockOld": true,
             "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0
+            "maxActivatedUserCount": 1
         }
     ]
 }

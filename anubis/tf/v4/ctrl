@@ -2,17 +2,13 @@
     "code": 200,
     "data": [
         {
-            "enable": true,
+            "enable": false,
             "blockOld": true,
             "maxActivatedDeviceCount": 1,
             "maxActivatedUserCount": 1,
-            "grayScaleBase": 2,
-            "grayScaleRange": [
-                0,
-                1
-            ],
-            "endVer": "89.0.0",
-            "exceptionVers": ["1.5.1"],
+            "beginVer": "1.2.3",
+            "endVer": "2.0.0",
+            "exceptionVers": ["1.2.4"],
             "keepAlive": true
         },
         {

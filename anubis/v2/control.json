@@ -22,10 +22,10 @@
             "keepAlive": true
         },
         {
-            "enable": false,
+            "enable": true,
             "blockOld": true,
             "maxActivatedDeviceCount": 0,
-            "maxActivatedUserCount": 0
+            "maxActivatedUserCount": 1
         }
     ]
 }
