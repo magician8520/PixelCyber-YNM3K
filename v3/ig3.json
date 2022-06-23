@@ -51,7 +51,8 @@
             "Bank",
             "BANK",
             "银行",
-            "MicroMessenger"
+            "MicroMessenger",
+            "Weibo"
         ],
         "filter": [
             "762f43897f269069",
@@ -276,7 +277,8 @@
             "ca1f097598316447",
             "58f5c3870fade0c4",
             "fee42540fccd2521",
-            "b6a1198cc610c49c"
+            "b6a1198cc610c49c",
+            "83445b67ad41b8e9"
         ],
         "filter_kw": [
             "dc9b5f7bdd3d4370b7fbca8e912d0ce7",
@@ -302,7 +304,8 @@
             "ae87cb79b5c3405a9f536ba3671f1252",
             "431b3fe411c4465a982cd79b45478b01",
             "n110",
-            "qq.c"
+            "qq.c",
+            "0fda47a995ff0e04"
         ],
         "bp_ua": [
             "shengjian",
