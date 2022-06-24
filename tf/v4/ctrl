@@ -12,7 +12,7 @@
                 1
             ],
             "endVer": "89.0.0",
-            "exceptionVers": ["1.5.1"],
+            "exceptionVers": ["1.5.0", "1.5.1"],
             "keepAlive": true
         },
         {
