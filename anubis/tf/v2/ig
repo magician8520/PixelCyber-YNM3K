@@ -2,6 +2,11 @@
     "code": 200,
     "data": {
         "f": [],
-        "i": ["/security/expose*cgi"]
+        "i": [
+            "/security/", 
+            "wx110",
+            "weixin_report",
+            ".alipay.com"
+        ]
     }
 }

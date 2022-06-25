@@ -4,7 +4,8 @@
         "f": [],
         "i": [
             "/security/", 
-            "/wx110/", 
+            "wx110",
+            "weixin_report",
             ".alipay.com"
         ]
     }
