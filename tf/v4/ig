@@ -9,7 +9,8 @@
         ],
         "ua": [
             "MicroMessenger",
-            "Weibo"
+            "Weibo",
+            "WeChat"
         ],
         "bp_ua": [],
         "bp_url": []
