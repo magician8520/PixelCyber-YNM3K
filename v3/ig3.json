@@ -33,6 +33,7 @@
             "/uniform_impeach/",
             "/feedback/*/report_user/",
             "alipay.com",
+            "alipayobjects.com",
             "alibaba.com",
             ".bilibili.com",
             ".weibo.c",
@@ -70,7 +71,11 @@
             "Weibo",
             "waimai",
             "eleme",
-            "WeChat"
+            "WeChat",
+            "TencentConnect",
+            "QQ/",
+            "%E6%94%AF%E4%BB%98%E5%AE%9D",
+            "%E9%93%B6%E8%A1%8C"
         ],
         "filter": [
             "762f43897f269069",

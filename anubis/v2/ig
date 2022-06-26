@@ -3,10 +3,13 @@
     "data": {
         "f": [],
         "i": [
-            "/security/", 
+            "/security/",
             "wx110",
             "weixin_report",
-            ".alipay.com"
+            ".alipay.com",
+            "TencentConnect",
+            "QQ/",
+            "%E6%94%AF%E4%BB%98%E5%AE%9D"
         ]
     }
 }

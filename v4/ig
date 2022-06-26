@@ -7,7 +7,11 @@
         "filter_kw": [],
         "ua": [
             "Weibo",
-            "WeChat"
+            "WeChat",
+            "TencentConnect",
+            "QQ/",
+            "%E6%94%AF%E4%BB%98%E5%AE%9D",
+            "%E9%93%B6%E8%A1%8C"
         ],
         "bp_ua": [],
         "bp_url": []
