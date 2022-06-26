@@ -9,7 +9,12 @@
             ".alipay.com",
             "TencentConnect",
             "QQ/",
-            "%E6%94%AF%E4%BB%98%E5%AE%9D"
+            "%E6%94%AF%E4%BB%98%E5%AE%9D",
+            "AliApp",
+            "AlipayClient",
+            "BaiduBoxApp",
+            "baiduboxapp",
+            "%E7%99%BE%E5%BA%A6"
         ]
     }
 }
