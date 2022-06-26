@@ -2,9 +2,12 @@
     "code": 200,
     "data": {
         "url": [],
-        "url_ii": ["wpxe.sit.beyonds.com"],
+        "url_ii": [".beyonds.com"],
         "filter": [],
         "filter_kw": [],
+        "ua": [
+            "Weibo"
+        ],
         "bp_ua": [],
         "bp_url": []
     }
