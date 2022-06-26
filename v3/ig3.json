@@ -60,7 +60,8 @@
             ".youku.com",
             ".soku.com",
             ".tudou.com",
-            ".jd.com"
+            ".jd.com",
+            "unionpay*.c"
         ],
         "ua": [
             "bank",
