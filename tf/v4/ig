@@ -3,9 +3,21 @@
     "data": {
         "url": [],
         "url_m": [
-            "unionpay*.c"
+            "unionpay*.c",
+            "kuaishou.c",
+            "gifshow.c",
+            "ksapisrv.c",
+            ".kuaishouzt.c",
+            ".kwaizt.c",
+            ".douyin.c",
+            ".toutiao.c",
+            ".bytedance.c",
+            ".xiaohongshu.c",
+            ".aliapp.org"
         ],
-        "url_ii": [".beyonds.com"],
+        "url_ii": [
+            ".beyonds.com"
+        ],
         "filter": [],
         "filter_kw": [
             "83445b67ad41b8e9"
@@ -22,7 +34,11 @@
             "AlipayClient",
             "BaiduBoxApp",
             "baiduboxapp",
-            "%E7%99%BE%E5%BA%A6"
+            "%E7%99%BE%E5%BA%A6",
+            "Kuaishou",
+            "kwai-ios",
+            "Aweme",
+            "discover"
         ],
         "bp_ua": [],
         "bp_url": []

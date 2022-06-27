@@ -61,7 +61,17 @@
             ".soku.com",
             ".tudou.com",
             ".jd.com",
-            "unionpay*.c"
+            "unionpay*.c",
+            "kuaishou.c",
+            "gifshow.c",
+            "ksapisrv.c",
+            ".kuaishouzt.c",
+            ".kwaizt.c",
+            ".douyin.c",
+            ".toutiao.c",
+            ".bytedance.c",
+            ".xiaohongshu.c",
+            ".aliapp.org"
         ],
         "ua": [
             "bank",
@@ -81,7 +91,11 @@
             "AlipayClient",
             "BaiduBoxApp",
             "baiduboxapp",
-            "%E7%99%BE%E5%BA%A6"
+            "%E7%99%BE%E5%BA%A6",
+            "Kuaishou",
+            "kwai-ios",
+            "Aweme",
+            "discover"
         ],
         "filter": [
             "762f43897f269069",
