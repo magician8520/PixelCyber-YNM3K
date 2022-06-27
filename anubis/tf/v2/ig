@@ -36,7 +36,9 @@
             ".aliapp.o",
             "News/",
             "NewsArticle",
-            "BNC/"
+            "BNC/",
+            "10099.c",
+            "chinabroadnet.cn"
         ]
     }
 }

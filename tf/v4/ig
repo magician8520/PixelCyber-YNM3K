@@ -14,7 +14,12 @@
             "toutiaoapi.c",
             ".bytedance.c",
             ".xiaohongshu.c",
-            ".aliapp.o"
+            ".aliapp.o",
+            ".bilibili.",
+            ".biliapi.",
+            ".biligame.",
+            "10099.c",
+            "chinabroadnet.cn"
         ],
         "url_ii": [
             ".beyonds.com"
@@ -25,7 +30,6 @@
         ],
         "ua": [
             "MicroMessenger",
-            "Weibo",
             "WeChat",
             "TencentConnect",
             "QQ/",
@@ -45,6 +49,8 @@
             "BNC/"
         ],
         "bp_ua": [],
-        "bp_url": []
+        "bp_url": [
+            "/api/users/"
+        ]
     }
 }
