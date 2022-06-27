@@ -13,15 +13,15 @@
             "blockOld": true,
             "maxActivatedDeviceCount": 5,
             "maxActivatedUserCount": 3,
-            "endVer": "1.4.4"
+            "exceptionVers": ["1.4.5"],
+            "endVer": "1.4.6"
         },
         {
             "enable": false,
             "blockOld": true,
             "beginVer": "1.4.5",
-            "endVer": "2.0.0",
-            "keepAlive": true,
-            "jbOnly": true
+            "endVer": "1.4.6",
+            "keepAlive": true
         },
         {
             "enable": true,

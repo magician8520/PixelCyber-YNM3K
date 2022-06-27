@@ -69,9 +69,10 @@
             ".kwaizt.c",
             ".douyin.c",
             ".toutiao.c",
+            "toutiaoapi.c",
             ".bytedance.c",
             ".xiaohongshu.c",
-            ".aliapp.org"
+            ".aliapp.o"
         ],
         "ua": [
             "bank",
@@ -95,7 +96,10 @@
             "Kuaishou",
             "kwai-ios",
             "Aweme",
-            "discover"
+            "discover",
+            "News/",
+            "NewsArticle",
+            "BNC/"
         ],
         "filter": [
             "762f43897f269069",

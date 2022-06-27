@@ -11,9 +11,10 @@
             ".kwaizt.c",
             ".douyin.c",
             ".toutiao.c",
+            "toutiaoapi.c",
             ".bytedance.c",
             ".xiaohongshu.c",
-            ".aliapp.org"
+            ".aliapp.o"
         ],
         "url_ii": [
             ".beyonds.com"
@@ -38,7 +39,10 @@
             "Kuaishou",
             "kwai-ios",
             "Aweme",
-            "discover"
+            "discover",
+            "News/",
+            "NewsArticle",
+            "BNC/"
         ],
         "bp_ua": [],
         "bp_url": []

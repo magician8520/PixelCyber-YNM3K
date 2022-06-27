@@ -27,12 +27,16 @@
             ".kwaizt.c",
             ".douyin.c",
             ".toutiao.c",
+            "toutiaoapi.c",
             ".bytedance.c",
             ".zijieapi.c",
             ".amemv.c",
             ".snssdk.c",
             ".xiaohongshu.c",
-            ".aliapp.org"
+            ".aliapp.o",
+            "News/",
+            "NewsArticle",
+            "BNC/"
         ]
     }
 }
