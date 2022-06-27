@@ -15,7 +15,24 @@
             "BaiduBoxApp",
             "baiduboxapp",
             "%E7%99%BE%E5%BA%A6",
-            "unionpay*.c"
+            "unionpay*.c",
+            "Kuaishou",
+            "kwai-ios",
+            "Aweme",
+            "discover/",
+            "kuaishou.c",
+            "gifshow.c",
+            "ksapisrv.c",
+            ".kuaishouzt.c",
+            ".kwaizt.c",
+            ".douyin.c",
+            ".toutiao.c",
+            ".bytedance.c",
+            ".zijieapi.c",
+            ".amemv.c",
+            ".snssdk.c",
+            ".xiaohongshu.c",
+            ".aliapp.org"
         ]
     }
 }
