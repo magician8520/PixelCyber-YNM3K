@@ -38,7 +38,13 @@
             "NewsArticle",
             "BNC/",
             "10099.c",
-            "chinabroadnet.cn"
+            "chinabroadnet.cn",
+            "189.cn",
+            "chinatelecom.com",
+            "10086.cn",
+            "chinamobile.com",
+            "10010.com",
+            "chinaunicom.com"
         ]
     }
 }
