@@ -20,7 +20,12 @@
             ".biliapi.",
             ".biligame.",
             "10099.c",
-            "chinabroadnet.cn"
+            "chinabroadnet.cn",
+            "xiaojukeji.c",
+            "didi*.c",
+            ".xdrig.c",
+            "udache.c",
+            "chengxinyouxuan.c"
         ],
         "url_ii": [
             ".beyonds.com"
@@ -44,7 +49,10 @@
             "discover",
             "News/",
             "NewsArticle",
-            "BNC/"
+            "BNC/",
+            "Omega",
+            "OneTravel",
+            "didi"
         ],
         "bp_ua": [],
         "bp_url": [

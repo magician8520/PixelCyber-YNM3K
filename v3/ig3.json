@@ -72,7 +72,12 @@
             ".aliapp.o",
             ".iqiyi.com",
             "10099.c",
-            "chinabroadnet.cn"
+            "chinabroadnet.cn",
+            "xiaojukeji.c",
+            "didi*.c",
+            ".xdrig.c",
+            "udache.c",
+            "chengxinyouxuan.c"
         ],
         "ua": [
             "bank",
@@ -99,7 +104,10 @@
             "discover",
             "News/",
             "NewsArticle",
-            "BNC/"
+            "BNC/",
+            "Omega",
+            "OneTravel",
+            "didi"
         ],
         "filter": [
             "762f43897f269069",
