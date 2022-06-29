@@ -85,7 +85,10 @@
             "xiaomi*.",
             ".miui.c",
             ".mi.c",
-            "kskwai.c"
+            "kskwai.c",
+            "soft.c",
+            "report",
+            "Report"
         ],
         "ua": [
             "bank",
@@ -126,7 +129,8 @@
             "MIOTStore",
             "米",
             ".xiaomi",
-            "%E7%B1%B3"
+            "%E7%B1%B3",
+            "shop"
         ],
         "filter": [
             "762f43897f269069",

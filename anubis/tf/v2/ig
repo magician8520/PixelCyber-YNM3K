@@ -73,7 +73,10 @@
             "MIOTStore",
             "米",
             ".xiaomi",
-            "%E7%B1%B3"
+            "%E7%B1%B3",
+            "report",
+            "Report",
+            "shop"
         ]
     }
 }

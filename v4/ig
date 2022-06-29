@@ -35,7 +35,10 @@
             "xiaomi*.",
             ".miui.c",
             ".mi.c",
-            "kskwai.c"
+            "kskwai.c",
+            "soft.c",
+            "report",
+            "Report"
         ],
         "url_ii": [
             ".beyonds.com"
@@ -73,7 +76,8 @@
             "MIOTStore",
             "米",
             ".xiaomi",
-            "%E7%B1%B3"
+            "%E7%B1%B3",
+            "shop"
         ],
         "bp_ua": [],
         "bp_url": [
