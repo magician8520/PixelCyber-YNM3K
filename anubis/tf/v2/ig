@@ -80,7 +80,8 @@
             "expose",
             "impeach",
             "jubao",
-            "feedback"
+            "feedback",
+            "soft.c"
         ]
     }
 }
