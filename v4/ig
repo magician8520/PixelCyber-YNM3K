@@ -12,9 +12,10 @@
             ".douyin.c",
             ".toutiao.c",
             "toutiaoapi.c",
-            ".bytedance.c",
             ".xiaohongshu.c",
             ".aliapp.o",
+            "alibaba*.c",
+            "alipayobjects.c",
             ".weibo.c",
             ".bilibili.",
             ".biliapi.",
@@ -25,7 +26,16 @@
             "didi*.c",
             ".xdrig.c",
             "udache.c",
-            "chengxinyouxuan.c"
+            "chengxinyouxuan.c",
+            ".pstatp.c",
+            ".byte*.c",
+            ".ixigua.c",
+            ".21cn.c",
+            "pinduoduo.",
+            "xiaomi*.",
+            ".miui.c",
+            ".mi.c",
+            "kskwai.c"
         ],
         "url_ii": [
             ".beyonds.com"
@@ -44,19 +54,31 @@
             "baiduboxapp",
             "%E7%99%BE%E5%BA%A6",
             "Kuaishou",
-            "kwai-ios",
+            "kwai",
             "Aweme",
             "discover",
-            "News/",
-            "NewsArticle",
+            "News",
             "BNC/",
             "Omega",
             "OneTravel",
-            "didi"
+            "didi",
+            "phh_",
+            ".xunmeng",
+            "Taobao",
+            "%E5%BF%AB%E6%89%8B",
+            "%E6%B7%98%E5%AE%9D",
+            "ByteDance",
+            "MiHome",
+            "MiShop",
+            "MIOTStore",
+            "米",
+            ".xiaomi",
+            "%E7%B1%B3"
         ],
         "bp_ua": [],
         "bp_url": [
-            "/api/users/"
+            "/api/users/",
+            "taobao.c"
         ]
     }
 }
