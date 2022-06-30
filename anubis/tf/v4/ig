@@ -31,7 +31,8 @@
             "MyApp",
             "%E4%B9%90%E6%AA%AC",
             "tmall",
-            "%E5%A4%A9%E7%8C%AB"
+            "%E5%A4%A9%E7%8C%AB",
+            "client.act"
         ]
     }
 }

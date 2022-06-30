@@ -61,7 +61,8 @@
             "ximalaya",
             "taobao.c",
             "aliyun*.c",
-            "beyonds"
+            "beyonds",
+            "client.act"
         ],
         "url_ii": [],
         "filter": [],
