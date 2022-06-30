@@ -42,7 +42,25 @@
             "expose",
             "impeach",
             "jubao",
-            "feedback"
+            "feedback",
+            "cainiao",
+            "jd.com",
+            "360buyimg.c",
+            "paypal",
+            "adobe.io",
+            ".pdfexpert.c",
+            "huawei.c",
+            ".org.cn",
+            ".edu.cn",
+            ".gov.cn",
+            "fcbox.c",
+            "sudiyi.c",
+            "sse.com.cn",
+            "szse.cn",
+            "boc.cn",
+            "yuanfudao",
+            "ximalaya"
+
         ],
         "url_ii": [
             ".beyonds.com"
@@ -81,7 +99,8 @@
             "米",
             ".xiaomi",
             "%E7%B1%B3",
-            "shop"
+            "shop",
+            "JD"
         ],
         "bp_ua": [],
         "bp_url": [
