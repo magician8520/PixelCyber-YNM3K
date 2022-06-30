@@ -20,7 +20,16 @@
             "szse.cn",
             "boc.cn",
             "yuanfudao",
-            "ximalaya"
+            "ximalaya",
+            "taobao.c",
+            "aliyun*.c",
+            "beyonds",
+            "smzdm",
+            "SMZDM",
+            "marsapp",
+            "wmsapp",
+            "MyApp",
+            "%E4%B9%90%E6%AA%AC"
         ]
     }
 }

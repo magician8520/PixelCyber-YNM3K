@@ -34,7 +34,7 @@
             ".biliapi.",
             ".biligame.",
             ".weibo.c",
-            ".jd.com*/getCoupon",
+            ".jd.com",
             ".ele.me",
             ".meituan.com",
             ".dianping.com",
@@ -57,7 +57,6 @@
             ".youku.com",
             ".soku.com",
             ".tudou.com",
-            ".jd.com",
             "unionpay*.c",
             "kuaishou.c",
             "gifshow.c",
@@ -92,7 +91,11 @@
             "expose",
             "impeach",
             "jubao",
-            "feedback"
+            "feedback",
+            "beyonds",
+            "aliyun*.c",
+            "taobao.c",
+            ".360buyimg.c"
         ],
         "ua": [
             "bank",
@@ -134,7 +137,14 @@
             "米",
             ".xiaomi",
             "%E7%B1%B3",
-            "shop"
+            "shop",
+            "JD",
+            "smzdm",
+            "SMZDM",
+            "marsapp",
+            "wmsapp",
+            "MyApp",
+            "%E4%B9%90%E6%AA%AC"
         ],
         "filter": [
             "762f43897f269069",
@@ -392,8 +402,7 @@
         "bp_ua": [
             "shengjian",
             "Taker/",
-            "MobileClient/",
-            "JD4iPhone"
+            "MobileClient/"
         ],
         "bp_url": [
             "api.hzchaoxiang.cn*/Pay",
@@ -561,10 +570,8 @@
             "/api/users/",
             ".intsig.net",
             ".uzero.cn",
-            ".360buyimg.com",
             ".sina.cn",
-            ".sina.com",
-            "taobao.c"
+            ".sina.com"
         ]
     }
 }

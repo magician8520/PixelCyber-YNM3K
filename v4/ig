@@ -59,8 +59,10 @@
             "szse.cn",
             "boc.cn",
             "yuanfudao",
-            "ximalaya"
-
+            "ximalaya",
+            "taobao.c",
+            "aliyun*.c",
+            "beyonds"
         ],
         "url_ii": [],
         "filter": [],
@@ -98,12 +100,17 @@
             ".xiaomi",
             "%E7%B1%B3",
             "shop",
-            "JD"
+            "JD",
+            "smzdm",
+            "SMZDM",
+            "marsapp",
+            "wmsapp",
+            "MyApp",
+            "%E4%B9%90%E6%AA%AC"
         ],
         "bp_ua": [],
         "bp_url": [
-            "/api/users/",
-            "taobao.c"
+            "/api/users/"
         ]
     }
 }
